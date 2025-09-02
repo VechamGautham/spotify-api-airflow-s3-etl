@@ -1,0 +1,310 @@
+track_id,track_name,album_id,album_name,album_type,release_date,release_date_precision,duration_ms,explicit,track_popularity,primary_artist_id,primary_artist_name,primary_artist_popularity,primary_artist_genres,available_markets_count,ingestion_date
+4yJgSqf89poSNC6zIAwMQP,幕が上がる,7EMnnvi7tiuruBRbW9Zr92,幕が上がる,single,2025-07-31,day,282586,False,67,6rs1KAoQnFalSqSU4LTh8g,back number,77,j-pop|j-rock,183,2025-09-02
+1BpjLA9nQYf06iNZaK8eWZ,illusion,7tOkQxseZlORjYoyUkE0MZ,illusion,single,2025-07-04,day,195733,False,57,4SJ7qRgJYNXB9Yttzs4aSa,Ryokuoushoku Shakai,66,j-pop|anime|j-rock,185,2025-09-02
+7Fr2Q6q3rAxFUcMkuvVrXO,Stateside,5YDrgVxfvOkmp1OYjXB29z,Stateside,single,2025-04-25,day,168040,False,59,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,82,bedroom pop,184,2025-09-02
+1cuTl5iuuc1OIv1pNSDnOy,Tonight,5YDrgVxfvOkmp1OYjXB29z,Stateside,single,2025-04-25,day,174880,False,44,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,82,bedroom pop,184,2025-09-02
+7DnSq6M9SblbGBW41jg6oS,言伝 ―ことづて―,6xobEgpXTdqi5vU4lqLi4J,言伝 ―ことづて―,single,2025-04-11,day,261130,False,37,5jQa0f5MIMPEK7udL7UpI6,PornoGraffitti,62,anime|j-pop|j-rock,185,2025-09-02
+3FdZ6MCqA9y0Hhlc8U9uSw,"バグり (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",2fPFTelUOr9Nw72DW55aHU,"バグり (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",single,2025-03-14,day,186835,True,41,5MZKzz8nnucMHhJq34UZwe,YENTOWN,40,j-rap,1,2025-09-02
+1Xehs3MscmdYqsEdpgSnPE,Friday Night Fantasy,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,124066,False,20,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+04orLJSDOyhnrMCi3uIZNQ,Ayye,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,164946,False,15,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+1oKea0Pb26onx0Z33Yr5Y5,Go Up (feat. MaRI),65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,208573,True,13,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+2sElXzZQrp2vSKCpLiSHKG,Rainy Miami,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,142906,False,11,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+253juHdFLUAYWibzhjic9l,Precious,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,185733,False,11,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+0gTYGGMUm3dx6BGnGE2sEq,Why Do You Like Me,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,202840,True,13,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+0t16UW7x9WLpf4vwZuj75f,Baccarat,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,183853,True,10,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+0q1QUbwF0d1PSvk0iR7LaG,Mr. G (feat. Deech),65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,206333,True,10,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+6XnSZV3mBTmc6RZ0O2v43b,On the Sofa,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,222066,False,11,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+6rX9FiBfIDa7DXoPIXvh2D,Party Girls (feat. Rashel),65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,231760,False,12,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+7lzSiLtouW4LlzT1RCT0MU,Malibu Dream,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,151384,True,16,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+4Jo18lkHy6gtnzeZnfka3v,Sky-Dweller,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,209453,False,9,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+7GWv09bMp3LR75jd3CcZEN,4Season,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,176333,False,11,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+1HDTIPeanUruZ8oT0hmZvT,SOSOGU (feat. JJJ),65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,165613,True,14,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+62vg65Oo3TDjHBsHUIpB3J,NRE.,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,158293,False,10,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+7w08Nmx3HNHYH48Je7VIIC,Crazy Life,65zERkLZ5jhy7Emo8oEMWz,FNF,album,2025-03-07,day,181106,False,23,2ZEOC8FatCSFTFVtt1laOt,Tiji Jojo,60,j-rap|hip hop,184,2025-09-02
+5KmNFz2Ve8ITrTMvAcJOsw,When a Man Cries,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,231960,False,44,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+33vtLeCWJAMbYjIg6xc6cz,That's What I Love,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,226440,False,53,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+2HyTl2ZFnRNoe56LJsETOc,Laredo,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,196960,False,60,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+0ySkMC5CSdVFuBkiEDCQfF,Panther City,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,247666,False,53,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+3rHRwx3G8o6VAfaFAliw5d,Ain't Got Nothing On You,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,206853,False,59,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+3FWMV8E8bugipOWGaehWW6,Simplify,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,231920,False,41,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+7sOBXuIjekNDkivaurAHgD,Teddy's Tune,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,53973,False,39,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+5Uoe2op9gLbwwKMtyjux5t,Never Satisfied,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,230720,False,46,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+7g4JvjIMwC4gi6gBPKOqnz,Peaceful Place,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,255320,False,51,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+2SIjWrKuWIPm2359x3ilCs,Can't Have It All,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,160186,False,42,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+6kvdjKkkd2QJ0arXpjCmfW,Ivy,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,193640,False,43,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+2kmRNdU0GIxb8099z45WQn,Ghetto Honeybee,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,235706,False,41,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+78Hz15kEfWJ3wbuYlD0Zyw,God Loves Everyone,6mHNMtHrXIdUWWuZD9njsG,Leon,album,2024-10-04,day,154520,False,39,3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,76,retro soul,185,2025-09-02
+0vb3agb9QlHY2hZ2GmJSXk,Lover,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,210612,False,26,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+0psSGht509NEpw60oFNOfc,Issa Goodbye,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,216709,False,34,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+5qwTV8pr5mU9Fb2HPLyNis,Devastated,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,231603,False,27,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+28fdZiMAwrYU41REleoZIi,I Don't Know Anymore,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,230478,False,46,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+0hJnGB29A4dkZ9zND9jUTj,Somebody's Pleasure,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,223957,False,66,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+3MkOsjScGN4hE9wdtJEuka,Pure Love,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,245812,False,40,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+3Xvao3VV3kUVSnR93bBZ4B,Heartless,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,230418,False,24,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+5vWpk3g58gmvW7EedSvEU5,no more you and i,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,200360,False,41,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+37V2WeqMC54TPFa7d9PsfM,Best Lesson,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,265737,False,36,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+2uE5zaQYiOR4iPa9wDfY8R,Remember You,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,134412,False,26,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+5fTMi7nDH3HGlzFLOSvVjp,Lesson Learned,1ShrAiTDbq2soLmIpmIvd8,Lesson Learned,album,2024-08-09,day,92400,False,26,6ygKuZFz2sRggPZRaLHVHD,Aziz Hedra,65,indonesian pop,185,2025-09-02
+6thKUE9N3TORLzYr74V9y5,Backseat Driver,0pG2PLMMgxqjNDVnjITHrz,Backseat Driver,single,2024-07-12,day,196577,False,30,0Vw76uk7P8yVtTClWyOhac,HONNE,64,,13,2025-09-02
+0sQVIg4AVkLvoRM39iGoLK,Girl In The Orchestra,0pG2PLMMgxqjNDVnjITHrz,Backseat Driver,single,2024-07-12,day,192557,False,19,0Vw76uk7P8yVtTClWyOhac,HONNE,64,,13,2025-09-02
+1kA1ZNptqnHQGkiswR738t,Songs In My Head,0pG2PLMMgxqjNDVnjITHrz,Backseat Driver,single,2024-07-12,day,186540,False,17,0Vw76uk7P8yVtTClWyOhac,HONNE,64,,13,2025-09-02
+1apACf5YS5v84qbw5UBXzd,Imaginary,0pG2PLMMgxqjNDVnjITHrz,Backseat Driver,single,2024-07-12,day,200839,False,18,0Vw76uk7P8yVtTClWyOhac,HONNE,64,,13,2025-09-02
+6Pwiut77nYLas41QLalwNm,Kite War,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,356198,False,38,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+3e9z7v3fc6KBXACJwj0St1,Y,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,342553,False,43,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+1g0C3XVAWkcQTR0BtFx0wa,Antenna,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,204983,False,41,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+7h7p7gSIBzqTxEEoAR2lwL,Glue,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,260430,False,45,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+0VrZodRby4IfK3rZIxSajI,Young Man,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,257286,False,47,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+4kMPWlA17FZUnXvbQC9xlD,Do Nothing,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,226808,False,40,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+101lUgtuH4AYGr96pYn55C,Aaaannnnteeeeennnaaaaaa,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,410463,False,45,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+4sWosEZU1fsp3uYOrUhDgO,2F 年轻人,1tEu6qNPURb0YfjaRDK23w,AAA,album,2024-07-10,day,308258,False,31,57okaLdCtv3nVBSn5otJkp,HYUKOH,56,k-rock|k-ballad,184,2025-09-02
+0M0a2E5H8pUmqDHs0A4931,Fall At Your Feet (with Dean Lewis),7msRig3mOdFp1MeUZPngiY,Fall At Your Feet (with Dean Lewis),single,2024-07-12,day,143976,False,65,11kt6ggsdxvI8MhyeSMKom,CYRIL,81,,184,2025-09-02
+7wtUI2bKLWZ23GOmzMkU1Q,STUPID - WITH LIL YACHTY & BABYFACE RAY,0LpnKDM6JGLcZP4haLZpwI,STUPID (WITH LIL YACHTY & BABYFACE RAY),single,2024-07-09,day,175656,True,46,0A0FS04o6zMoto8OKPsDwY,YG,75,,185,2025-09-02
+4ImeysCxPlYmM4LRFp7z9f,X's,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,183761,True,6,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+383EQ8PDAlqzSe4ayyn2Ct,Tejano Blue,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,234453,True,7,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+2F6vx9sOQJE264gYgn9dxr,Silver Sable,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,231933,False,5,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+2WPIxceRvtnq6VtA8gjftE,Hideaway,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,276640,False,4,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+2HZFVG2oEzLou9lT8SA2BD,"Holding you, Holding me",10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,210213,False,6,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+2JVOanze0ta7wiFkPnzv1L,Dark Vacay,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,213413,False,3,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+0Wiopk3IquTf6khAdIZr3p,Baby Blue Movie,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,244733,False,3,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+1YA5bU26lxHMggrFfDR5gj,Hot,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,237480,True,2,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+5CW2fItR9XN5tgYCB4MF9H,Dreams From Bunker Hill,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,219226,False,5,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+0DBxUAlftYH0RXSr3cNsvs,Ambien Slide,10i6evsxSFs2fuPQRWvI6I,X's,album,2024-07-12,day,213466,False,3,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,87,dream pop,0,2025-09-02
+06spxvvLVo3m1GV3jT0ZjP,My Oh My (with Bebe Rexha & Tove Lo),6L5PWde8zjpIa2C6SIjNv8,My Oh My (with Bebe Rexha & Tove Lo),single,2024-07-11,day,181146,False,48,4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,74,dance pop,183,2025-09-02
+5v66VjrhFwSlPqadCrubyb,Vertigo,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,179757,False,64,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+3w89OtVnMWNS0QnpmVpZyp,Miss Me Too,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,182064,False,60,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+3h9uSB8FdvYJMl9B2bBhTn,Into The Walls,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,188604,False,47,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+3r6amwtOy75o4sWlq3VVTb,19th Hour,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,209529,False,49,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+4CT8GIFHgrSArbyRV9jfx1,Astronaut,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,215082,False,51,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+6SBft75urQ5L2oyqlGbEVe,Anything,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,188286,False,61,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+0ZS8Ls8x5DZlePoOUbsOML,Pillow In My Arms,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,196456,False,46,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+3QQ0xkLtifUsoSLjUBaVdb,Cycles,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,178588,False,40,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+2cmxKeY72HeimX9tcm57Ru,Tears For Fun,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,196363,False,56,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+3uxPD44h3fRHg0HrHA0zoN,Hiding Alone,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,227886,False,46,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+6h2fv9FKu6pE3EYF45tv6K,Hole In My Pocket,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,160141,False,40,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+5rqK2MWQhzuIDVJcULTVPs,Everlasting,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,173802,False,38,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+7sC4LsVu0KTdn1dLC2tnhu,So Fast,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,150243,False,39,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+3jn8FNLh6nRW5Jy6yM9Gb6,Where Did You Go,3VA9PnquCzG4E2GHgBzFQE,Vertigo,album,2024-07-12,day,203180,False,36,5RJFJWYgtgWktosLrUDzff,Griff,64,,184,2025-09-02
+7jwkwRAxqq8NJ1wJurGq0t,Bus,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,203992,False,37,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+7dXWHT8Y4zwWS4NVgOWZNM,Raze the Bar,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,185401,False,29,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+6LES5kD4KqSEJz2nbepPQZ,Live It All Again,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,203549,False,20,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+0gkFdnSGtFuIsMUFkIH9db,Gaslight,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,203628,False,34,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+50FZC0TxQwpitGlQIufSfQ,Alive,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,168794,True,36,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+7AhFPaOvbWnQp3SSVAVCJ1,Home,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,185646,False,26,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+2ZD1wVAdkDStvBf3DGmSi4,I Hope That You Spontaneously Combust,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,138852,False,19,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+1jcELM2dEQBRT1ZiHWa9mu,Naked In New York City,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,263458,False,20,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+4IdcFxF803jQANELqIA02o,The River,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,136487,False,18,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+1aYyukg2XcBuyRZEs5uoTh,L.A. Times,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,248177,True,20,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+2z7j4mkyrfAlF8n6xcrKzK,Bus - Stripped,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,198846,False,17,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+3x7b6Uah1ha4uhSM0viUmn,Raze the Bar - Stripped,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,186023,False,15,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+2XdxpA5pgds8Xd5USLBjXX,Gaslight - Stripped,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,212112,False,15,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+5m1odxT5tp6N4IomCpeegO,Naked In New York City - Stripped,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,261200,False,14,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+6LhDd0r6y3id4aY6wMo1Lz,The River - Stripped,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,102075,False,13,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+1A6agmiTEfUoEb8Y2YEaar,L.A. Times - Stripped,7wYyR1xrLO0uWxBlanysNT,L.A. Times,album,2024-07-12,day,258854,True,13,3bUwxJgNakzYKkqAVgZLlh,Travis,63,britpop,185,2025-09-02
+0IAFmrpi9KF0PP3LONJonm,In The Dark,34XrK5yFLziX15BSjDDiyO,In The Dark,single,2024-07-12,day,148930,False,59,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,78,trance|progressive trance|progressive house|electronica|edm,150,2025-09-02
+6nnXcVOjQROs4x1RUY57kI,"Tu Hai Champion (From ""Chandu Champion"")",6LVS3ciZv4mt2m1dA5FWnx,"Tu Hai Champion (From ""Chandu Champion"")",single,2024-05-30,day,216163,False,38,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+01Vpd2oh65RTICFhbdLBDQ,"Satyanaas (From ""Chandu Champion"")",5FTM4NCtG5AT3PFsNXbVTr,"Satyanaas (From ""Chandu Champion"")",single,2024-05-24,day,205088,False,43,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+1r6GbBLdtUK1Vl1IHT14wP,"Dekhha Tenu (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,281511,False,69,4xNgNFUMUuGCoy7IX74Y60,Mohammad Faiz,63,hindi pop,185,2025-09-02
+2JS0RFqBJvBtvG1GIsZmjW,"Agar Ho Tum (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,253223,False,65,4f7KfxeHq9BiylGmyXepGt,Tanishk Bagchi,83,bollywood|hindi pop|desi|desi pop|gujarati garba,185,2025-09-02
+0IKoHIQ1CshjtvYIOu5hwB,"Roya Jab Tu (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,300434,False,40,5wJ1H6ud777odtZl5gG507,Vishal Mishra,79,bollywood|hindi pop,185,2025-09-02
+6egfWbtFFhMToV2DvmEzmo,"Tu Hain Toh (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,283539,False,72,0Or6EukLg1g2fTl08fPz2o,Bunny,63,,185,2025-09-02
+5yc63ruhMGPpBPnuZwOPwd,"Junoon Hain (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,207426,False,34,4bvGDTEPFnllKiJaEZGuXk,Achint,60,gujarati garba|gujarati pop,185,2025-09-02
+0RAQ4y6mgiDgbBnGeABGWX,"Ranjhana (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,231153,False,41,7GfQHvzxguqb8I3FeEoYRt,Dhrruv Dhalla,26,sufi,185,2025-09-02
+7o9amiuyYz7o2fnL6YdfA6,"Tu Hain Toh - Neeti Mohan Version (From ""Mr. And Mrs. Mahi"")",3PI3er7mHLniPndwdo0mlA,Mr. And Mrs. Mahi (Original Motion Picture Soundtrack),album,2024-05-24,day,208600,False,57,3ZxZ03fj3tXBZHZWzvaLSM,Neeti Mohan,74,bollywood|hindi pop|desi,185,2025-09-02
+660CX4lTKJFgOgoSmRrkSs,Louder,0yx4JsRKHVe7JLgKIyebOp,Louder,single,2024-05-17,day,180769,False,29,4xerUCsurnILh4KpC5FVWX,Elephant Kind,45,indonesian indie,185,2025-09-02
+3MlLMBQxcbhAToQvMYiRoB,Little Time For Love,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,256946,False,36,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+396RNP40AV17s1SW4ucNZl,Waking Up Together With You,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,178890,False,62,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+2kKIqB9PBn3aLkprms6oWM,Nobody,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,284000,False,26,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+68fwIBvZG3Q6kUB8XUiGS9,Love Song For Chesney,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,219310,False,30,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+7K3Lvpoj0UwCUo0qeuJmmI,Dancing In September,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,250523,False,45,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+7K3UEFknFEw7RkrZonIZCM,Reminiscence,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,235500,False,28,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+3TYyc083KzN34WrpfplhBJ,Beautiful Journey,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,304085,False,34,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+5TwYmXgpOzJ7VZxWYfwfSQ,Dreams,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,202173,False,32,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+3YroDHYfia1GU8RFXcIuOL,I Feel Love,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,197072,False,27,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+6HKyHxEXCWvRPOVEEL9nc1,Ready,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,226106,False,33,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+313kufIL1TMY7NrmIMimMr,Stay,6udjCLHRuFO5Yjxy2pBlky,Roadtrip,album,2024-05-17,day,216000,False,31,3TkSKriI4EZmTxSFyzs0fd,Ardhito Pramono,59,indonesian indie,185,2025-09-02
+2cSoKxktx83MxhkAoaTOyc,CANDYRELLA,1n9VJFm671VITcO2VnttNh,CANDYRELLA,single,2024-05-15,day,184038,False,1,7JUNqSO2J7JcC76ShZ9DI9,Paul Partohap,60,,0,2025-09-02
+4qG74FcxHBeDcveHfOlqtQ,CANDYRELLA - sweeter,1n9VJFm671VITcO2VnttNh,CANDYRELLA,single,2024-05-15,day,190960,False,0,7JUNqSO2J7JcC76ShZ9DI9,Paul Partohap,60,,0,2025-09-02
+6ck6J9O3UUSSSbPpP7r3O1,Give All,07tlJPRw1kXHayjJ0rgatM,Give All,single,2024-05-17,day,162246,False,11,1whPdBCsbQv270FMoML1fa,NUZB,38,future house|bass house|brazilian bass,181,2025-09-02
+2olkQiOBNai6jtxU03w47a,I Believe,1AWqGYJ1b3KAYwpck8C3Wm,I Believe,single,2024-05-17,day,163098,False,27,6xQvQwZQQuq9R3TdPNbcR8,Bassjackers,62,big room|edm,185,2025-09-02
+1iZhzsEoPfULMJFSOJcxYK,Both Ways,3eh5lPgtVovNYkSdGlRi5I,Both Ways,single,2024-05-17,day,186779,False,39,3AQRLZ9PuTAozP28Skbq8V,The Script,79,,185,2025-09-02
+0K2VANgf1sgRsgJA3W205u,High On Love,1RS0vAX4YynNRKyxl7DoAw,High On Love,single,2024-05-17,day,176077,False,32,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,78,trance|progressive trance|progressive house|electronica|edm,182,2025-09-02
+08APpCYHGsbJ2N9jhRgLQY,Chase It (Mmm Da Da Da),7LWwnuLW7GNZ8qdw4yPKzN,Chase It (Mmm Da Da Da),single,2024-05-17,day,154639,False,54,64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,80,,184,2025-09-02
+52IUYgumUJN31TVeyfjv9t,Save My Soul (feat. Jordan Grace),6bodARPsfzNApsTUOzKDmh,Save My Soul (feat. Jordan Grace),single,2024-05-17,day,208027,False,29,0oPgJ6vm1fLGFGahd3yDrP,Afroki,25,,56,2025-09-02
+7zQhHRCbfA5z3rY56O9REd,Diss You,6bodARPsfzNApsTUOzKDmh,Save My Soul (feat. Jordan Grace),single,2024-05-17,day,125167,False,23,0oPgJ6vm1fLGFGahd3yDrP,Afroki,25,,56,2025-09-02
+3G8UpeZbzVGRMJQD5Zn3mB,My City (feat. Katy Tiz),3xNEWVkFaNdnAPmC0M5J0c,My City (feat. Katy Tiz),single,2024-05-15,day,151874,False,40,2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,84,edm|trance|big room|house|dance,48,2025-09-02
+7DdpBxdbpYBMXPPTVrrD6m,May flowers,4OJ6X8eazX6FSN3ShfoJUD,May flowers,single,2024-05-17,day,192212,False,18,08oPfsqJWRQaDYTupwwXrE,LIU KOI,36,chinese r&b|chinese indie|chinese hip hop|j-r&b|mandopop|c-pop|taiwanese indie,185,2025-09-02
+1o0bFBGkxgxCnu6mg2YrP1,"Pushpa Pushpa (From ""Pushpa 2 The Rule"") [HINDI]",2B8A82Xt4J6AXZRXfFOQGh,"Pushpa Pushpa (From ""Pushpa 2 The Rule"") [HINDI]",single,2024-05-01,day,256040,False,50,5T2I75UlGBcWd5nVyfmL13,Mika Singh,68,bollywood|desi|hindi pop,185,2025-09-02
+7c3Y3gfuogFZpwj8ECBIAi,"Tu Mil Gaya (From ""Srikanth"")",4nDcMc3usFZB4gTBQR7mE1,"Tu Mil Gaya (From ""Srikanth"")",single,2024-04-15,day,269166,False,43,4f7KfxeHq9BiylGmyXepGt,Tanishk Bagchi,83,bollywood|hindi pop|desi|desi pop|gujarati garba,185,2025-09-02
+7cAdIlAHmaWooLpqzPdTxI,"Papa Kehte Hain (From ""Srikanth"")",1DoM6rYl4oyNaW7sLr8FTP,"Papa Kehte Hain (From ""Srikanth"")",single,2024-04-22,day,282078,False,34,2owjgBZQ70LoCNHIgW3gSk,Anand-Milind,50,bollywood|hindi pop,185,2025-09-02
+4yOSJ7Gimca2OudwDAXLSu,Mera Saaya,5rSSwWHFO7BDclf2ktbsML,Achha Lag Raha Hai,single,2024-04-26,day,187135,False,35,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,78,bhajan|hindi pop|devotional|bollywood|desi pop,185,2025-09-02
+4plvShsskQ7Gu8EIxfxHNB,Achha Lag Raha Hai,5rSSwWHFO7BDclf2ktbsML,Achha Lag Raha Hai,single,2024-04-26,day,182104,False,27,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,78,bhajan|hindi pop|devotional|bollywood|desi pop,185,2025-09-02
+4YkyQXwLPpACNXLYCXWO2X,Ghungroo,5rSSwWHFO7BDclf2ktbsML,Achha Lag Raha Hai,single,2024-04-26,day,182183,False,14,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,78,bhajan|hindi pop|devotional|bollywood|desi pop,185,2025-09-02
+6fIgYyuZ4gEWjY8cqlyKWj,Kho Jaana,5rSSwWHFO7BDclf2ktbsML,Achha Lag Raha Hai,single,2024-04-26,day,241066,False,29,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,78,bhajan|hindi pop|devotional|bollywood|desi pop,185,2025-09-02
+6Zdfy7UaDTQBMijWyMvVOA,Malang Sajna,5rSSwWHFO7BDclf2ktbsML,Achha Lag Raha Hai,single,2024-04-26,day,161041,False,17,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,78,bhajan|hindi pop|devotional|bollywood|desi pop,185,2025-09-02
+5emwpQvSRKbYlIcUziCZN9,Malang Sajna - Jamming Version,5rSSwWHFO7BDclf2ktbsML,Achha Lag Raha Hai,single,2024-04-26,day,184149,False,23,6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,78,bhajan|hindi pop|devotional|bollywood|desi pop,185,2025-09-02
+0fxSVlXdxb5aCzbVyGvx0D,Drive ft. KIDDO,10qvBn2MB8C4qGdj2aSymU,Drive ft. KIDDO,single,2024-04-05,day,139725,False,30,77AiFEVeAVj2ORpC85QVJs,Steve Aoki,73,electro house|edm,185,2025-09-02
+4zkuLWpOFybgVkXbbOPEHJ,All the Things She Said,1FbCsMN3QbJzyChn0JpPf7,All the Things She Said,single,2024-04-05,day,165299,False,61,3t5xRXzsuZmMDkQzgOX35S,Robin Schulz,80,tropical house,3,2025-09-02
+2Q5MQ4KdfN15j1b2yGlh8N,Day 0 (feat. Dame D.O.L.L.A.),7mUp7FJyc0IS2eqfhsYvVz,Day 0 (feat. Dame D.O.L.L.A.),single,2024-04-05,day,179018,False,31,6B9YF4eOv99klogeZUzkYM,MIRROR,41,cantopop|c-pop,185,2025-09-02
+269dhoLUrjVl8bSXyhdH6r,Devotion,19JTuhercisDkcrejs4eFu,Devotion,single,2024-04-05,day,154191,False,32,2wX6xSig4Rig5kZU6ePlWe,KSHMR,65,big room|edm|slap house|electronica,184,2025-09-02
+6SQlsmneR2rMN11QyfwnQh,waiting for you,3zCjzqYdYy9gjZRZ6JiLQQ,waiting for you,single,2024-04-04,day,168181,False,27,53QFkgzvHiqxjEdY0alTcr,Jasmine Kelly,39,,185,2025-09-02
+52KxsRBZj7Ip9HdxgvEQbO,Insomnia,51QJlvJclfVB6jNNXlDatS,Insomnia,single,2024-03-01,day,204916,False,50,58oPVy7oihAEXE0Ott6JOf,Eve,68,anime|j-pop|j-rock|vocaloid|japanese indie,184,2025-09-02
+1uCBFWAcZOJGAj1CFQHZDj,Daaku,2tpXdOI6g9KNdQIXFWB1kW,Daaku,single,2024-02-22,day,160396,True,58,0y59o4v8uw5crbN9M3JiL1,Badshah,77,bollywood|desi|hindi pop|desi hip hop|hindi hip hop|desi pop,183,2025-09-02
+5EqAFRGd2E93JZfzOspD6m,Sher Khul Gaye,5p1147cCqxrWBDZAtaDR54,Fighter,single,2024-01-23,day,180172,False,53,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,82,bollywood|desi|hindi pop,185,2025-09-02
+1cIQzduGYs9ouUqkHKw8ug,Ishq Jaisa Kuch,5p1147cCqxrWBDZAtaDR54,Fighter,single,2024-01-23,day,169686,False,44,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,82,bollywood|desi|hindi pop,185,2025-09-02
+42eLsQ6zlYiAGO8i0YX7vU,Heer Aasmani,5p1147cCqxrWBDZAtaDR54,Fighter,single,2024-01-23,day,204110,False,47,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,82,bollywood|desi|hindi pop,185,2025-09-02
+6WlamJnq3oXCnA42XwEETX,Dil Banaane Waaleya,5p1147cCqxrWBDZAtaDR54,Fighter,single,2024-01-23,day,224072,False,44,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,82,bollywood|desi|hindi pop,185,2025-09-02
+70VumyINl4ae4OqbUnPQ7s,Mitti,5p1147cCqxrWBDZAtaDR54,Fighter,single,2024-01-23,day,214166,False,44,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,82,bollywood|desi|hindi pop,185,2025-09-02
+1cfVazMGaMohXaEMOmNv6c,Bekaar Dil,5p1147cCqxrWBDZAtaDR54,Fighter,single,2024-01-23,day,209050,False,51,6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,82,bollywood|desi|hindi pop,185,2025-09-02
+0RzNjtJpTODVbDQxeK1cAF,"Bade Miyan Chote Miyan (Title Track) - From ""Bade Miyan Chote Miyan""",51UyD6TwRxLU6kVJJmzDPw,"Bade Miyan Chote Miyan (Title Track) [From ""Bade Miyan Chote Miyan""]",single,2024-02-19,day,159093,False,33,5wJ1H6ud777odtZl5gG507,Vishal Mishra,79,bollywood|hindi pop,183,2025-09-02
+1vmxRAeefCwK82NsQOXPtV,Laal Peeli Akhiyaan,0KvWbswDD0ksvFayBl6gUz,Teri Baaton Mein Aisa Uljha Jiya,single,2024-02-05,day,188101,False,40,0bRPtPZQkWHeG7MGk9eWlh,Romy,69,hindi pop|bollywood|desi|sufi,185,2025-09-02
+0qPoQiQIhgyMaP7X78hxri,Akhiyaan Gulaab,0KvWbswDD0ksvFayBl6gUz,Teri Baaton Mein Aisa Uljha Jiya,single,2024-02-05,day,171147,False,61,3iGhlvzpXc0UHBQ7klAItX,Mitraz,66,indian indie|hindi indie|desi pop|desi|hindi pop,185,2025-09-02
+2qBBAuIg8FUBYiJ3QRrVsP,Teri Baaton Mein Aisa Uljha Jiya Title Song,0KvWbswDD0ksvFayBl6gUz,Teri Baaton Mein Aisa Uljha Jiya,single,2024-02-05,day,153083,False,59,5PVSEFUT4Inqu3yEq56Ku9,Raghav,57,bollywood|hindi indie|desi|desi pop,185,2025-09-02
+0pDiRD9YE6PZBBgjMyezvk,Tum Se,0KvWbswDD0ksvFayBl6gUz,Teri Baaton Mein Aisa Uljha Jiya,single,2024-02-05,day,264089,False,47,3qpyErDI4i90q5EGgSRmNK,Raghav Chaitanya,68,hindi indie|hindi pop|indian indie|bollywood,185,2025-09-02
+7xKmcNxk4wF03Xpc4oIXbg,Get Lower,6L3OPsn0P4F6PNUDFGxDVV,Get Lower,single,2024-02-09,day,191015,True,49,77AiFEVeAVj2ORpC85QVJs,Steve Aoki,73,electro house|edm,185,2025-09-02
+7b5FO1uKhuJE0ZUJPKLWtI,We Can't Stop,27LVMe5wMsHddairHoCux2,We Can't Stop,single,2024-02-09,day,122200,True,43,4D75GcNG95ebPtNvoNVXhz,AFROJACK,76,edm|big room,183,2025-09-02
+4beKzTMCCMDizozv4Y3Shj,Never Be Lonely,1DCiXnF1Z9XX4zxYCFytSX,Never Be Lonely,single,2024-02-09,day,134570,False,63,4Q6nIcaBED8qUel8bBx6Cr,Jax Jones,73,,183,2025-09-02
+3njA65KM3YEF08hEBGpaTW,crush,0Tqz0PyiUMHr2HIwvXmyKP,crush,single,2024-02-09,day,199877,False,28,0duLKMlcwhyZgqu8zSSjBp,Alaina Castillo,51,,185,2025-09-02
+124nj3QzqpccVdLbiFHPeB,Mood Swings,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,140733,False,47,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+0ADr2jDuHvK77uIJWTKTvs,Fever,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,87893,False,45,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+676854Mu9sVS1vfoBqk7S2,Torch,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,131253,False,40,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+3qyuXDvMWjZLVPwbjWpGaq,SOS,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,182640,False,38,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+0e0tBV3cm7RiTPzMCEegT1,I Ain't Feelin It,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,107533,False,32,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+3aynUU0UifcUPzOSssR1Pk,Power,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,55000,True,33,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+7p6ru2D2smv8ga7f06JkTo,Far Away,2jK2rbbnrzsId5WWSc67HP,Drop 7,album,2024-02-09,day,187093,False,37,6eXZu6O7nAUA5z6vLV8NKI,Little Simz,69,,185,2025-09-02
+7jY6W92bLfnXnevTa7JKHi,Perfect (Exceeder),2eScJnMQTMY0WYPz2MXWsp,Perfect (Exceeder),single,2024-02-09,day,151929,False,65,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,91,edm|dance,178,2025-09-02
+4LUlHbMzwyZmEbw0Dm9LiG,Perfect (Exceeder),2eScJnMQTMY0WYPz2MXWsp,Perfect (Exceeder),single,2024-02-09,day,161250,False,30,307erl4VjT1dZDMYpneZqd,Mason,58,,178,2025-09-02
+0d6TITFrIBX5OIfvoMqPaB,Thrill Again,1pXm1JY9f142BiqV3bNRjd,Thrill Again,single,2024-02-09,day,235660,False,37,28j8lBWDdDSHSSt5oPlsX2,ZHU,65,edm,183,2025-09-02
+6tmP2DtGTamdlOK7t5rjNB,HELLO (from The Tiger's Apprentice),4eCOedqcXqpKnu3wsRRVdf,HELLO (from The Tiger's Apprentice),single,2024-02-09,day,153065,False,32,4OfU76YhPU04wlmbVFFgTJ,ATARASHII GAKKO!,57,j-pop|j-rock,185,2025-09-02
+0OnjHhnWXyVc3ExmEk2VLL,Please,4LQysmF0IAoFTPSscF0TIH,Please,single,2024-01-26,day,236160,False,13,009SHiJ9rvFm3vNwL4SjZx,NYK,36,chinese r&b|chinese hip hop,185,2025-09-02
+4iW5OTwRAYZOQO0YjErC77,problems,2clG6lWFZZFyIl3prBhXEV,problems,single,2024-01-26,day,126234,False,17,5n4a9seylr5pY9paMr9nWP,Reikko,34,hyperpop,185,2025-09-02
+7Ix7tEAw8le0lP3YSJFPp3,Take Me,31yx6tPI7RvMRN0yvDqf4r,Take Me,single,2024-01-26,day,218896,False,0,3jGBrkfigCO8a21DpyiOMa,Dreane,35,indonesian indie,0,2025-09-02
+7vNn4RT0zRxrb3KQQQ4j05,Don't You Dare Hesitate,31yx6tPI7RvMRN0yvDqf4r,Take Me,single,2024-01-26,day,143743,False,0,3jGBrkfigCO8a21DpyiOMa,Dreane,35,indonesian indie,0,2025-09-02
+7gwmbKdpNWwFQrr7554mnF,Fermeture,31yx6tPI7RvMRN0yvDqf4r,Take Me,single,2024-01-26,day,64285,False,0,3jGBrkfigCO8a21DpyiOMa,Dreane,35,indonesian indie,0,2025-09-02
+4zBb7nz1hzs8Tsp7wMOxVE,spirit,6dIwYCSul7keEQ6pd1q83Y,BORDER ROOM,single,2024-01-25,day,175921,False,3,3NNLu9Wli3fbZW22xzN08B,noui,24,,183,2025-09-02
+2gyfRZWs5tqYUh7PRzAn1U,the moon is not here,6dIwYCSul7keEQ6pd1q83Y,BORDER ROOM,single,2024-01-25,day,187021,False,3,3NNLu9Wli3fbZW22xzN08B,noui,24,,183,2025-09-02
+46bTc395qmtB1GazI0ui5B,Dunia Drives My Car,6dIwYCSul7keEQ6pd1q83Y,BORDER ROOM,single,2024-01-25,day,217246,False,8,3NNLu9Wli3fbZW22xzN08B,noui,24,,183,2025-09-02
+5QmzVL7xSsGKQFBEYrSpgg,BODY,6dIwYCSul7keEQ6pd1q83Y,BORDER ROOM,single,2024-01-25,day,211960,False,5,3NNLu9Wli3fbZW22xzN08B,noui,24,,183,2025-09-02
+2qscrISthfjwNQWVrXcCUT,favorite person,6dIwYCSul7keEQ6pd1q83Y,BORDER ROOM,single,2024-01-25,day,193207,False,6,3NNLu9Wli3fbZW22xzN08B,noui,24,,183,2025-09-02
+2WFmtZWu1lV7emNPeWxBtB,Sweet Hurting,0My4HXeLw9xcBwCLx2N5uw,Sweet Hurting,single,2024-01-26,day,214622,False,44,4nd1IvFkUoQinjvYdUmOBI,GANGGA,57,,185,2025-09-02
+15GmDt2VKLQmcB8q9tkJh8,Forever Was Never Enough,5OPbWgMmKfLsir6Er33VIm,Forever Was Never Enough,single,2024-01-26,day,175733,False,27,56zJ6PZ3mNPBiBqglW2KxL,Peder Elias,58,norwegian pop,185,2025-09-02
+6OfjBG1UlQnHjTCzXm5OBn,Head Up,26dgMMTWbItI0LfqWDzrZi,Head Up,single,2024-01-26,day,189636,False,41,7DMveApC7UnC2NPfPvlHSU,Cheat Codes,68,,182,2025-09-02
+7IrBKNBMGIDv8od1EEaQPk,WTF R U!?,1qNBQh6STwsh2iP8bFecSg,WTF R U!?,single,2024-01-26,day,152813,True,30,1l2ekx5skC4gJH8djERwh1,Don Diablo,68,future house|edm,185,2025-09-02
+53wflg8tyNORMUzqJgUGAh,Answer Phone,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,160019,False,43,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+0uvagCBJC0ClsR11W10T0Y,Black Friday,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,221510,False,74,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+2TpHdNgZWRCqmZ2iPG90fJ,Loving You Will Be The Death Of Me,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,131999,True,47,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+5P3bUmVBZX0Hegpicbqzsm,The Orchestra Tunes Up,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,49870,False,34,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+1a2oOgUmt8wSzKyFTSPpJn,Spinning,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,131440,False,45,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+4aowllZWHlgU1VM1lktbW4,The End Of The Summer,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,127254,False,46,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+7cZiJGssqDViCDWsrz0SAJ,The Orchestra Takes Flight,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,45205,False,34,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+2uwWaaUUS846kk6C1gwApk,Somebody Else,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,203324,False,39,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+20iy9BsoGImHGsV2ahFpS5,Parties,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,135608,True,48,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+6dlQEG6xGqMuK2BgJ6wX5t,The Orchestra is Feeling Tense,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,33260,False,33,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+2V1LwCRjAhab8Pc3V2YUXU,Nothing Hurts Like Love,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,231086,False,40,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+2TIvpGj9Al0KjwMjatQhLH,Getaway (voice note),0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,45377,False,36,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+2t5nGgRBeqwNf3p0LjAyQf,The End,0OTRd577BEHU8WNfrJ24aB,Black Friday,album,2024-01-26,day,205634,False,54,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,80,,185,2025-09-02
+3tP2P4KybC9wYVI8Pe41GT,Wall Of Eyes,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,305946,False,44,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+6o2yIQVzajJjRrgICzcfAf,Teleharmonic,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,310440,False,48,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+4WlKWgWG030Cpatn5P6uGE,Read The Room,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,314440,True,42,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+0S8AJYklLvEHIA6J2Mfirx,Under Our Pillows,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,374040,False,38,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+4lTLmo9aTyMJ1SoHa63WA6,Friend Of A Friend,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,275200,False,44,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+1AwmHLaRPX4970KLkbetPb,I Quit,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,332053,False,38,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+1xnVnK5ZHZaGEZ166eFpNJ,Bending Hectic,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,483973,False,45,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+7CqPRDUeEPcaAzadljKd38,You Know Me!,6PdPOv5ybKZ9ZuGMk5iGZd,Wall Of Eyes,album,2024-01-26,day,321733,False,35,6styCzc1Ej4NxISL0LiigM,The Smile,53,art rock,185,2025-09-02
+70P2SrcpkFbMOvjXrevKga,Swapping Socks,11vYgQBDU9DJnRlBJ6RuO5,Swapping Socks,single,2024-01-26,day,218762,False,21,2hEgcLvKaP0WVJbmmNpkVt,Andr,45,taiwanese indie|chinese indie|taiwanese pop,185,2025-09-02
+4OvFFy9nniyG6CsI86yNGL,Rest Of My Life,7zeA4kJCW5R6Qef90r2zQM,Rest Of My Life,single,2024-01-19,day,205810,False,50,1HBjj22wzbscIZ9sEb5dyf,Jonas Blue,75,tropical house,183,2025-09-02
+1NMYbsFZyxwHRNaLGzFGWh,Who I Am,5j0uoFLuAcXYz2jTWPovHX,Who I Am,single,2024-01-04,day,193776,False,62,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,82,,185,2025-09-02
+3qCCQas6tIP15Yjgu3gl9S,All My Life,2AhoXwTvHcGjBwNMDOwEZp,All My Life,single,2024-01-05,day,146974,False,58,2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,84,edm|trance|big room|house|dance,184,2025-09-02
+41iVxKOcl1e4hZtheCca2R,like that x4,4UWdCcyQ9m7p7kaKFMIq2Q,like that x4,single,2024-01-02,day,126956,False,23,2KZp9cq9DQ9unz17ohWTlL,KIRE,41,chinese r&b|chinese hip hop|c-pop|mandopop|chinese indie|taiwanese indie|taiwanese pop,185,2025-09-02
+4CelEvSO1E3stARxdh2iX6,like that x4 (Instrumental),4UWdCcyQ9m7p7kaKFMIq2Q,like that x4,single,2024-01-02,day,126956,False,4,2KZp9cq9DQ9unz17ohWTlL,KIRE,41,chinese r&b|chinese hip hop|c-pop|mandopop|chinese indie|taiwanese indie|taiwanese pop,185,2025-09-02
+7AEdIhy2GLcoJ3nqqEjmjT,Nothing Else Feels The Same,5qBY1K1C7QoXWlmZ2yvV5L,Nothing Else Feels The Same,single,2023-12-08,day,184827,True,0,0xSfdfhcXN6T8M5gt7VwK0,LOONY,42,alternative r&b,0,2025-09-02
+2KNqYDH4eHT15G6pzYreYO,Counting Thunder,5qBY1K1C7QoXWlmZ2yvV5L,Nothing Else Feels The Same,single,2023-12-08,day,198578,False,0,0xSfdfhcXN6T8M5gt7VwK0,LOONY,42,alternative r&b,0,2025-09-02
+2j3gpd2ZcVcHHUXuVQ7E4C,A Good Night,5qBY1K1C7QoXWlmZ2yvV5L,Nothing Else Feels The Same,single,2023-12-08,day,145083,False,0,0xSfdfhcXN6T8M5gt7VwK0,LOONY,42,alternative r&b,0,2025-09-02
+3VOMmaBGKixcPt7YnzShDd,Old Friends,5qBY1K1C7QoXWlmZ2yvV5L,Nothing Else Feels The Same,single,2023-12-08,day,172173,True,0,0xSfdfhcXN6T8M5gt7VwK0,LOONY,42,alternative r&b,0,2025-09-02
+5blVjDdpbCFBOIiDkAl0Zl,First Thing Smokin',5qBY1K1C7QoXWlmZ2yvV5L,Nothing Else Feels The Same,single,2023-12-08,day,223925,False,0,0xSfdfhcXN6T8M5gt7VwK0,LOONY,42,alternative r&b,0,2025-09-02
+5wA9anxTJIsV8n8cnUZeH7,"Wrong Usage (From ""Saindhav"") (Telugu)",2lgR24Cpe5uu97frAYCAYe,"Wrong Usage (From ""Saindhav"") (Telugu)",single,2023-11-21,day,217500,False,29,5FVBduYaeVBb6JIghza7v6,Santhosh Narayanan,75,tamil pop|kollywood|tamil hip hop|tamil dance,1,2025-09-02
+1g9V1QE7vbeAx5Xm04DfLi,"Odiyamma (From ""Hi Nanna"") [TELUGU]",3l0neQyP1UjjSFoyCtxS75,"Odiyamma (From ""Hi Nanna"") [TELUGU]",single,2023-11-28,day,195115,False,62,6ivte6aFersdzMprXpVDiO,Dhruv Vikram,49,tamil hip hop|tollywood|tamil pop|telugu pop|tamil indie,185,2025-09-02
+0S9j9OAG3KjmBg4j9XzFcC,Radhika,7ujJhfGKy2qKe2OBQqw173,Tillu Square,single,2023-11-27,day,188648,False,64,4A2XSc4OJjuPY4l6NjnrDj,Ram Miriyala,61,telugu pop|tollywood,185,2025-09-02
+72Z2D7jpKevicRkyL45mbw,"Lutt Putt Gaya (From ""Dunki"")",06griqizTDBczBxvgB91el,"Lutt Putt Gaya (From ""Dunki"")",single,2023-11-22,day,222997,False,64,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+1YKPRycM3GzKbZUYDgLrmn,"Arjan Vailly (From ""ANIMAL"")",6i0fypW09DBEBiMxqXXu8K,"Arjan Vailly (From ""ANIMAL"")",single,2023-11-18,day,182170,False,59,3pQ4aA7dkolyjUAMrVScgh,Manan Bhardwaj,66,bhajan|hindi pop|desi pop,185,2025-09-02
+7ohh779FFPKSuPgSYvIPn8,Glass House,0wJXk6rpJXYEyVVRP6vsZw,Glass House,single,2023-11-17,day,197122,False,33,4LZ4De2MoO3lP6QaNCfvcu,Said The Sky,59,melodic bass|future bass|edm|chillstep,185,2025-09-02
+3yNhGgQMPOdqVFpjRu8k8x,"Dum Masala (From ""Guntur Kaaram"")(Telugu)",2JTcQYxkWCph2DFYHljgnS,"Dum Masala (From ""Guntur Kaaram"")(Telugu)",single,2023-11-07,day,206830,False,52,2FgHPfRprDaylrSRVf1UlN,Thaman S,76,tollywood|telugu pop|tamil dance|tamil pop|kollywood|kannada pop,185,2025-09-02
+6AnkrKYwyVQJji1UkppGVG,Kali Kali Zulfon Ke,451oFZKSO5YhQGlGLkV00g,Kali Kali Zulfon Ke,single,2023-10-21,day,272068,False,38,5HcunTidTUrOaf8V0iJcvl,Nusrat Fateh Ali Khan,71,qawwali|ghazal|sufi,185,2025-09-02
+3L808tAAAWJOpmkhvDhCeh,Aafat,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,170859,True,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+5Jye44OYxbhVatHteqR5Be,Runaway (feat. Julia Michaels),7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,205826,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+2yIW0esEphGtQgVV0w2SYU,Tu Jaana Na Piya,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,226029,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+0vTk4gQz5tiFDS6D3Af38l,Good Trip,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,162904,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+2e7CeqSe18O2LPnuRaHpdX,Sarkaare,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,163319,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+6rCbyNLuqHLxwFkkMDPs15,Tum Saath Rehnaa,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,215510,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+0wqOWXBqNtBUp3hED7gecr,Legends,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,211000,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+0VBdCcaY6ERYKF7fZXQ8YX,We Are The Ones (feat. Gucci Mane),7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,167500,True,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+792LZt93GE9wsVZJCAUdQJ,High Hukku (feat. Nikhita Gandhi),7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,182769,True,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+6Ka5lDEuheEqB9KIDhUp2I,No Loss,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,208004,True,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+7FGDDUODBganNGgvE4CrmJ,CROWN,7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,197142,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+6aj5MGcyqkkz1hopeKxrMR,Legends (B Side),7zvmmYySo3FPuwEiKv7xSF,NEW LIFE,album,2023-10-18,day,170625,False,0,5NHm4TU5Twz7owibYxJfFU,King,68,desi hip hop|hindi hip hop|desi pop|hindi pop|hindi indie,0,2025-09-02
+54PRUdMOYzglMGnsg9kIta,"Hua Main (From ""ANIMAL"")",1Vkdf3mTQV4RakJBz0HbgT,"Hua Main (From ""ANIMAL"")",single,2023-10-11,day,277021,False,68,3qpyErDI4i90q5EGgSRmNK,Raghav Chaitanya,68,hindi indie|hindi pop|indian indie|bollywood,185,2025-09-02
+2oNcmoIOlDTBKPh7FzXSAT,"Sunoh (From ""The Archies"")",4hn7BSt8k7zIyyaNkkUXlJ,"Sunoh (From ""The Archies"")",single,2023-10-18,day,185462,False,24,4CK1oDthUad8mQBb8GAcfl,Tejas,23,indian indie|hindi indie,185,2025-09-02
+66v97IvccVkHt40FIOq1LH,"Leke Prabhu Ka Naam (From ""Tiger 3"")",2IP7pUCOazIHCAbK9eJNcu,"Leke Prabhu Ka Naam (From ""Tiger 3"")",single,2023-10-23,day,215316,False,49,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+6PetYmvjKZBjiUYlnlAcn1,this is what space feels like,23Dast9Z49J73VBjh3JulP,this is what space feels like,single,2023-09-25,day,183017,False,62,164Uj4eKjl6zTBKfJLFKKK,JVKE,78,,182,2025-09-02
+4OgcGtcurJBgS7H1iW7peT,"JALSA 2.0 - From ""Mission Raniganj: The Great Bharat Rescue""",0nUDc18ivjvaNEGh7iJKck,"JALSA 2.0 (From ""Mission Raniganj: The Great Bharat Rescue"")",single,2023-09-15,day,196124,False,52,4rgw8A5vcYinpZLDKHrEdV,Satinder Sartaaj,64,sufi|punjabi pop|bhangra,185,2025-09-02
+2uDeh0ImYtWkYSPjrX77gb,Saanware Aijaiyo,5k7KeArB1J9JPCRC12Xz7j,Saanware Aijaiyo,single,2023-09-14,day,234713,False,38,3nQ125TJobosBH446Dsvvv,Kavita Seth,63,bollywood|hindi indie|hindi pop|indian indie|ghazal|desi|sufi,183,2025-09-02
+1pnva3oleo3QxKJ0DFwPlD,Sahibaa,3F110IZGGwsNWMWji2xvTZ,The Great Indian Family,single,2023-09-15,day,236620,False,14,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+2hd2kXTF4ZcSUOarZBj1QB,Kanhaiya Twitter Pe Aaja,3F110IZGGwsNWMWji2xvTZ,The Great Indian Family,single,2023-09-15,day,285474,False,9,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+7Cy4Nt1ED8ArSYpJ4clSL2,Ki Farak Painda Hai,3F110IZGGwsNWMWji2xvTZ,The Great Indian Family,single,2023-09-15,day,182039,False,6,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+72lXeqq8JfmX4HwWDhdW8M,Pukaroon Hari Om,3F110IZGGwsNWMWji2xvTZ,The Great Indian Family,single,2023-09-15,day,216125,False,15,1wRPtKGflJrBx9BmLsSwlU,Pritam,91,bollywood|hindi pop|desi,185,2025-09-02
+3ylrAcRTfhiiTDLKInsWr1,Naina Milayke,1E5P0NaUcnXWBX4MxqYgk2,Naina Milayke,single,2023-09-14,day,215121,False,41,1OPqAyxsQc8mcRmoNBAnVk,Dhvani Bhanushali,66,bollywood|hindi pop|desi pop|desi,185,2025-09-02
+4toBFhkIjRvPcAJIk98d58,"Nasha (From ""Sukhee"")",1jl3wLVKVzmtjwfDNyMoXI,"Nasha (From ""Sukhee"")",single,2023-09-13,day,213049,False,32,0y59o4v8uw5crbN9M3JiL1,Badshah,77,bollywood|desi|hindi pop|desi hip hop|hindi hip hop|desi pop,185,2025-09-02
+7md45nnXkzhX7OUKplETQ2,Zinda Banda,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,264000,False,46,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+3xMHXmedL5Rvfxmiar9Ryv,Chaleya,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,200373,False,68,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+5inzjqKe05zP1eInEO8O1i,Not Ramaiya Vastavaiya,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,202556,False,50,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+4bvHCjknZC3evn7NthBZVt,Aararaari Raaro,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,278155,False,43,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+0lZhDg6xVjHLwL5zYd6nkL,Jawan Title Track,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,188102,False,52,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+3qxLYSU1s5pqk8rz6dJNVi,Faraatta,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,195381,False,44,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+3roOHDRcGP1WzdUKSXW5qP,Chaleya Arabic Version,3WLJmMZUeDOuERFAk1Mxs6,Jawan,album,2023-09-05,day,200481,False,33,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+23L1GZqw7zJbTVGp7wGQc8,"Jaane Jaan - Title Track (From ""Jaane Jaan"")",50ZzqYelh9g0PEb4vT3sNb,"Jaane Jaan - Title Track (From ""Jaane Jaan"")",single,2023-09-11,day,140468,False,35,1mBydYMVBECdDmMfE2sEUO,Sachin-Jigar,83,gujarati pop|bollywood|hindi pop|desi|gujarati garba,1,2025-09-02
+0cTmuAFWdPOkwwlzUCfHWh,thinkaboutyou,5Rk2slHSxlZESDz7sAnR7p,thinkaboutyou,single,2023-09-01,day,138947,False,13,4wkxDp8esk6g2W9Fw7IQGY,Talitha.,35,malaysian pop,185,2025-09-02
+3uUga8325JCVj6oHg4utvc,夕餉,0pDW3OWNybeh1PRRWb1yXq,夕餉,single,2023-08-25,day,187158,False,14,5lEzAveEBteB85UVvKTanp,whaledontsleep,48,j-pop|japanese indie|vocaloid,185,2025-09-02
+1cPDOeVdALLjj4erFPiuqW,Kaavaalaa,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,190909,False,55,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+53Y7ZNZ6p26V460x89B70A,Jailer Theme - Instrumental,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,62337,False,49,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+0NAUzrHSWZwDCFsAT5fBV4,Rathamaarey,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,252151,False,57,5wJ1H6ud777odtZl5gG507,Vishal Mishra,79,bollywood|hindi pop,185,2025-09-02
+6BLzMdz3Gw8ho9GZMr9GSG,Muthuvel Pandian Theme - Instrumental,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,102857,False,48,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+5DgY6Ab0vpyUMKnY9ubFOF,Hukum - Thalaivar Alappara,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,207647,False,64,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+1CCl0ogC6LbX7slaVo7DGG,Jailer Drill Theme - Instrumental,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,43333,False,48,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+4nrIa48GgXzNks6NvqVIOX,Jujubee,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,167272,False,58,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+4ui3hCbu9ERDqVMENogH3e,Alappara Theme - Instrumental,0zRUzTXH7GtGLxt6uVdARD,Jailer (Original Motion Picture Soundtrack),album,2023-07-28,day,77647,False,51,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+1B02UI29t3PTh3m98absaP,"Naa Ready (From ""Leo"")",7qRoSVSyHeA9qtOXUpBwRI,"Naa Ready (From ""Leo"")",single,2023-06-22,day,248181,False,65,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,87,tamil pop|kollywood|tamil dance|tamil hip hop|tollywood|telugu pop,185,2025-09-02
+0ODJwDKYb16XOUKvOwCb7E,floor plan,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,153659,False,25,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+3QKrnxktMKllBki1PMnRUF,lately,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,170932,False,35,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+6Ci0P5hiAJSf4lvukyXqOQ,bad weather,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,170745,False,26,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+4hQB5oBSXXncJnZACjgeVg,water comes out of my eyes,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,202945,False,28,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+6VzrvZvs89Rq9ryHL6pufW,i hate u,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,169767,False,32,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+1OyakDSOcvuZjvESJxri3w,i love u,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,214003,False,19,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+0SZAJRURnvFJRR4af2hFgs,can u say…,1kePAOBgujzOYJrE0GtpFk,WATER COMES OUT OF MY EYES,album,2023-02-24,day,228788,False,23,51ZhiTtynrHq7tD4xfGZV7,moon tang,50,cantopop,184,2025-09-02
+5cTnKClHyczcUhFT8MKBZe,HALAZIA,0NQQk6vo9LOOwKjZc2iUwm,SPIN OFF : FROM THE WITNESS,single,2022-12-30,day,197025,False,66,68KmkJeZGfwe1OUaivBa2L,ATEEZ,78,k-pop|noise music,184,2025-09-02
+3E1sa5r0X7iwmXktb2v38l,WIN - June One Remix,0NQQk6vo9LOOwKjZc2iUwm,SPIN OFF : FROM THE WITNESS,single,2022-12-30,day,209029,False,38,68KmkJeZGfwe1OUaivBa2L,ATEEZ,78,k-pop|noise music,184,2025-09-02
+57RBkK05Zi0dF00Sn2oCM9,I'm The One - Eden-ary Remix,0NQQk6vo9LOOwKjZc2iUwm,SPIN OFF : FROM THE WITNESS,single,2022-12-30,day,194088,False,37,68KmkJeZGfwe1OUaivBa2L,ATEEZ,78,k-pop|noise music,184,2025-09-02
+5DPf9BgRYLa061j7W7VLJi,Take Me Home - IDIOTAPE Remix,0NQQk6vo9LOOwKjZc2iUwm,SPIN OFF : FROM THE WITNESS,single,2022-12-30,day,214404,False,36,68KmkJeZGfwe1OUaivBa2L,ATEEZ,78,k-pop|noise music,184,2025-09-02
+7H9O0vNSv2cAfKa2OQtwji,Outro : Blue Bird,0NQQk6vo9LOOwKjZc2iUwm,SPIN OFF : FROM THE WITNESS,single,2022-12-30,day,126139,False,37,68KmkJeZGfwe1OUaivBa2L,ATEEZ,78,k-pop|noise music,184,2025-09-02
+11JclvqEv0Zw0VwfgUqoek,2022 (Forever),7fLFLF9waiye1D3WYZ0noT,DKZ Year End Project Song ′It′s All Right Part.3′,single,2022-12-30,day,202500,False,13,31eyTcfjAke5hFX3az3nRE,DKZ,28,k-pop,185,2025-09-02
+6WOqU46ucCHVJtJo8QbU0V,2022 (Forever) - Instrumental,7fLFLF9waiye1D3WYZ0noT,DKZ Year End Project Song ′It′s All Right Part.3′,single,2022-12-30,day,202500,False,1,31eyTcfjAke5hFX3az3nRE,DKZ,28,k-pop,185,2025-09-02
+3EyZKeSteCNatEQuVlkm9a,Welcome To SMCU PALACE,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,129440,False,19,5uv1gQAOE14WiuRMvqfesF,SM Classics TOWN Orchestra,15,orchestra,185,2025-09-02
+4fzm0dCKiZm6T1yWIkPUiO,The Cure,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,220026,False,40,5Bm6d9Fbsmln3CpXv8VrMG,KANGTA,35,k-ballad,185,2025-09-02
+1oy2B6xsqSwCRBBynYtaUl,Hot & Cold,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,207173,False,52,6iVo62B0bdTknRcrktCmak,KAI,64,k-pop,185,2025-09-02
+1MsWVb6YW3AknP1EAZaKOQ,Beautiful Christmas,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,209800,False,24,1z4g3DjTBBZKhvAroFlhOM,Red Velvet,71,k-pop,185,2025-09-02
+7F0KfW5f4rWm503sbAuVeW,Jet,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,207693,False,49,4QRqp8zf5JtqaMk2OOU3NX,EUNHYUK,41,k-pop,185,2025-09-02
+79musoVrfPaVxoMSBFJYuc,Priority,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,214960,False,45,7FiAkNWMb6ZBYI8tbQLuIS,MAX CHANGMIN,41,k-pop,185,2025-09-02
+6LGcOydwjfaquaRgJwlPkK,Time After Time,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,182653,False,45,4muJrGMndyYWqZtfk8OWy4,BoA,57,k-pop|j-pop|j-r&b,185,2025-09-02
+00TUa5TlTVJXDvjq3TNK5v,Where You Are,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,266440,False,35,0fwfMuz3AmWRy2pyM5fDRo,RYEOWOOK,38,k-ballad,185,2025-09-02
+7vqXomPPC8z6VexoO6hWEY,Happier,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,162533,False,44,5Bm6d9Fbsmln3CpXv8VrMG,KANGTA,35,k-ballad,185,2025-09-02
+17o3AVR4saREMNmMYfD5h9,Good To Be Alive,1HwnXJfZx8N8qDfzwUbxcw,2022 Winter SMTOWN : SMCU PALACE,album,2022-12-26,day,202360,False,48,3U7bOaJLuFkrmDQ1C1OqKl,HYO,47,k-pop|noise music,185,2025-09-02
+2Dn2Cy1z5xxLZeEmvhAfiQ,Will spring come?,42SJRbZgv7qyZsa2uhxa83,Will spring come?,single,2022-12-26,day,198698,False,33,7fgL4SG4e92nmJ3GuTpz58,Def.,40,,184,2025-09-02
+0vVVMt1bmd7K87IstridSS,Darling (feat. dress),1nDGEzBI75Dan159KrtNAj,Darling (feat. dress),single,2022-12-27,day,254955,False,35,0lgENJQUkqkDbpsTYEayOr,JUNNY,58,k-rap,184,2025-09-02
+40xpKrnumGPEvHcw1kuL9R,Yun (with Erykah Badu),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,233688,True,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+12hD59WtTU92K1VcCXqLlw,Still Life (with Anderson .Paak),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,175328,False,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+40SuiVcQ5NyDk48nZSADK3,All Day (with Tablo),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,186186,True,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+3XKI5295qhFbwNesz3ollU,Forg_tful (with Kim Sawol),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,162295,False,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+5AmBIWCnsLscPSYsfCApBy,"Closer (with Paul Blanco, Mahalia)",08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,196507,False,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+7vPMugKcYwnX9Dh7SrLFHF,Change pt.2,08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,114026,True,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+50y0OQgar3BnwTt1pXdYsM,Lonely,08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,166020,True,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+3wEr5lmE7oaC3qhCbJTY8B,Hectic (with Colde),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,226189,False,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+5p8ThxM2OhJ0igfxkz0Z1q,Wild Flower (with youjeen),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,273499,False,1,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
+5ky45fGKbzGYilDewlBD6Z,No.2 (with parkjiyoon),08HCdXZVN72S2vpIT9DKhU,Indigo,album,2022-12-02,day,193963,False,0,2auC28zjQyVTsiZKNgPRGs,RM,73,k-pop|k-rap,0,2025-09-02
