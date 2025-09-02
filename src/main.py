@@ -31,7 +31,7 @@ def main():
     albums = get_paginated_new_releases(base_url=URL_NEW_RELEASES,access_token=access_token,limit=20,country=COUNTRY)
     print(f"fetched {len(albums)} alubms")
 
-    with open("bronze_albums.json", "w", encoding="utf-8") as f :
+    with open("bronze/bronze_albums.json", "w", encoding="utf-8") as f :
         json.dump(albums,f,ensure_ascii=False,indent=2)
 
     #--- Tracks (bronze) --- 
@@ -44,7 +44,7 @@ def main():
         print(f"   [{idx}/{len(album_ids)}] album {album_id} → {len(tracks)} tracks")
 
     print(f"Fetched {len(all_tracks)} tracks in total.")
-    with open("bronze_tracks.json", "w", encoding="utf-8") as f:
+    with open("bronze/bronze_tracks.json", "w", encoding="utf-8") as f:
         json.dump(all_tracks, f, ensure_ascii=False, indent=2)
     
     #--- Full track metadata (bronze) ---
@@ -52,13 +52,13 @@ def main():
     full_tracks = get_tracks_batch(base_url=URL_TRACKS,access_token=access_token,track_ids=track_ids,chunk_size=50)
     print(f" Fetched full metadata for {len(full_tracks)} tracks (with popularity )")
 
-    with open("bronze_tracks_full.json","w",encoding="utf-8") as f :
+    with open("bronze/bronze_tracks_full.json","w",encoding="utf-8") as f :
         json.dump(full_tracks,f,ensure_ascii=False,indent=2)
     
     # --- Artist metadata (bronze) ---
 
     artist_ids = []
-    
+
     for t in full_tracks:
         artist_list = t.get("artists", []) or t.get("album", {}).get("artists", [])
         for artist in artist_list:
@@ -69,7 +69,7 @@ def main():
     full_artists = get_artist_batch(base_url=URL_ARTISTS,access_token=access_token,artist_ids=artist_ids,chunk_size=50)
     print(f"fetched metadata for {len(full_artists)} artists.")
 
-    with open("bronze_artists.json","w",encoding="utf-8") as f :
+    with open("bronze/bronze_artists.json","w",encoding="utf-8") as f :
         json.dump(full_artists,f,ensure_ascii=False,indent=2)
 
 if __name__ == "__main__":
