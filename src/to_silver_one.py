@@ -15,6 +15,7 @@ BRONZE_ARTISTS     = os.path.join(BRONZE_DIR, "bronze_artists.json")
 
 OUTPUT_CSV         = os.path.join(SILVER_DIR, "tracks_silver.csv")
 
+
 def ensure_dirs():
     """Make sure the Silver output folder exists."""
     os.makedirs(SILVER_DIR,exist_ok=True)
@@ -184,7 +185,12 @@ def main():
 
     print(f"Wrote{len(rows)} rows to {OUTPUT_CSV}")
 
-    
+    today = str(date.today())
+    dated_dir = os.path.join("silver","daily_tracks",today)
+    os.makedirs(dated_dir,exist_ok=True)
+    dated_path = os.path.join(dated_dir,"tracks_silver.csv")
+    write_csv(rows,dated_path)
+    print(f"also wrote dated silver: {dated_path}")
 
 if __name__ == "__main__":
-    main()
+    main() 

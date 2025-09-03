@@ -5,7 +5,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5760429
+      "total": 5762332
     },
     "genres": [
       "j-pop",
@@ -41,7 +41,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1389169
+      "total": 1389708
     },
     "genres": [
       "j-pop",
@@ -78,7 +78,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4585366
+      "total": 4587582
     },
     "genres": [
       "bedroom pop"
@@ -113,7 +113,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1035437
+      "total": 1035712
     },
     "genres": [
       "anime",
@@ -150,7 +150,7 @@
     },
     "followers": {
       "href": null,
-      "total": 8556
+      "total": 8563
     },
     "genres": [
       "j-rap"
@@ -185,7 +185,7 @@
     },
     "followers": {
       "href": null,
-      "total": 90596
+      "total": 90622
     },
     "genres": [
       "j-rap"
@@ -220,7 +220,7 @@
     },
     "followers": {
       "href": null,
-      "total": 343453
+      "total": 343569
     },
     "genres": [
       "j-rap"
@@ -255,7 +255,7 @@
     },
     "followers": {
       "href": null,
-      "total": 25533
+      "total": 25537
     },
     "genres": [
       "j-rap"
@@ -290,7 +290,7 @@
     },
     "followers": {
       "href": null,
-      "total": 28470
+      "total": 28478
     },
     "genres": [
       "j-rap"
@@ -325,7 +325,7 @@
     },
     "followers": {
       "href": null,
-      "total": 13540
+      "total": 13543
     },
     "genres": [
       "j-rap"
@@ -360,7 +360,7 @@
     },
     "followers": {
       "href": null,
-      "total": 43889
+      "total": 43997
     },
     "genres": [
       "j-rap",
@@ -396,7 +396,7 @@
     },
     "followers": {
       "href": null,
-      "total": 14256
+      "total": 14267
     },
     "genres": [
       "j-rap"
@@ -431,7 +431,7 @@
     },
     "followers": {
       "href": null,
-      "total": 6089
+      "total": 6097
     },
     "genres": [
       "j-rap"
@@ -501,7 +501,7 @@
     },
     "followers": {
       "href": null,
-      "total": 82329
+      "total": 82379
     },
     "genres": [
       "j-rap",
@@ -537,7 +537,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1898801
+      "total": 1899341
     },
     "genres": [
       "retro soul"
@@ -572,7 +572,7 @@
     },
     "followers": {
       "href": null,
-      "total": 884223
+      "total": 885332
     },
     "genres": [
       "indonesian pop"
@@ -607,7 +607,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1600945
+      "total": 1601047
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
@@ -640,7 +640,7 @@
     },
     "followers": {
       "href": null,
-      "total": 720296
+      "total": 720560
     },
     "genres": [
       "k-rock",
@@ -676,7 +676,7 @@
     },
     "followers": {
       "href": null,
-      "total": 527422
+      "total": 527644
     },
     "genres": [
       "taiwanese indie",
@@ -713,7 +713,7 @@
     },
     "followers": {
       "href": null,
-      "total": 418665
+      "total": 418945
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/11kt6ggsdxvI8MhyeSMKom",
@@ -746,7 +746,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4048261
+      "total": 4050125
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3QSQFmccmX81fWCUSPTS7y",
@@ -779,7 +779,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3471728
+      "total": 3471852
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
@@ -812,7 +812,7 @@
     },
     "followers": {
       "href": null,
-      "total": 10834378
+      "total": 10835453
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
@@ -835,7 +835,7 @@
       }
     ],
     "name": "Lil Yachty",
-    "popularity": 80,
+    "popularity": 79,
     "type": "artist",
     "uri": "spotify:artist:6icQOAFXDZKsumw3YXyusw"
   },
@@ -845,7 +845,7 @@
     },
     "followers": {
       "href": null,
-      "total": 374261
+      "total": 374461
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3zZ88AwlTwfCJkowsFCvLA",
@@ -878,7 +878,7 @@
     },
     "followers": {
       "href": null,
-      "total": 16827667
+      "total": 16836058
     },
     "genres": [
       "dream pop"
@@ -913,7 +913,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2234297
+      "total": 2234731
     },
     "genres": [
       "dance pop"
@@ -922,17 +922,17 @@
     "id": "4RVnAU35WRWra6OZ3CbbMA",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5eb9a8ae4546aa5fb59aac60262",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb671d41bdcf5b7132878523b9",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab676161000051749a8ae4546aa5fb59aac60262",
+        "url": "https://i.scdn.co/image/ab67616100005174671d41bdcf5b7132878523b9",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f1789a8ae4546aa5fb59aac60262",
+        "url": "https://i.scdn.co/image/ab6761610000f178671d41bdcf5b7132878523b9",
         "height": 160,
         "width": 160
       }
@@ -948,7 +948,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9756833
+      "total": 9758184
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
@@ -981,7 +981,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3672615
+      "total": 3672575
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
@@ -1014,7 +1014,7 @@
     },
     "followers": {
       "href": null,
-      "total": 426686
+      "total": 426830
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/5RJFJWYgtgWktosLrUDzff",
@@ -1047,7 +1047,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1145382
+      "total": 1145504
     },
     "genres": [
       "britpop"
@@ -1082,7 +1082,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4524967
+      "total": 4524764
     },
     "genres": [
       "trance",
@@ -1095,23 +1095,23 @@
     "id": "0SfsnGyD8FpIN4U4WCkBZ5",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5eb3d13c5e2fca1a6c522616f22",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb3294b853ad2642a05e5e73b2",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab676161000051743d13c5e2fca1a6c522616f22",
+        "url": "https://i.scdn.co/image/ab676161000051743294b853ad2642a05e5e73b2",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f1783d13c5e2fca1a6c522616f22",
+        "url": "https://i.scdn.co/image/ab6761610000f1783294b853ad2642a05e5e73b2",
         "height": 160,
         "width": 160
       }
     ],
     "name": "Armin van Buuren",
-    "popularity": 78,
+    "popularity": 77,
     "type": "artist",
     "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
   },
@@ -1121,7 +1121,7 @@
     },
     "followers": {
       "href": null,
-      "total": 27059212
+      "total": 27058808
     },
     "genres": [
       "edm",
@@ -1157,7 +1157,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2937
+      "total": 2938
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/15SHURx3CnODWKpjmNcxgO",
@@ -1190,7 +1190,7 @@
     },
     "followers": {
       "href": null,
-      "total": 56561385
+      "total": 56610592
     },
     "genres": [
       "bollywood",
@@ -1227,7 +1227,7 @@
     },
     "followers": {
       "href": null,
-      "total": 157248833
+      "total": 157341254
     },
     "genres": [
       "hindi pop",
@@ -1265,7 +1265,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1243181
+      "total": 1243871
     },
     "genres": [
       "bollywood",
@@ -1302,7 +1302,7 @@
     },
     "followers": {
       "href": null,
-      "total": 52403
+      "total": 52419
     },
     "genres": [
       "bollywood",
@@ -1339,7 +1339,7 @@
     },
     "followers": {
       "href": null,
-      "total": 426372
+      "total": 426651
     },
     "genres": [
       "tollywood",
@@ -1378,7 +1378,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3933984
+      "total": 3941997
     },
     "genres": [
       "bollywood",
@@ -1415,7 +1415,7 @@
     },
     "followers": {
       "href": null,
-      "total": 813942
+      "total": 814008
     },
     "genres": [
       "gujarati garba",
@@ -1453,7 +1453,7 @@
     },
     "followers": {
       "href": null,
-      "total": 523580
+      "total": 524112
     },
     "genres": [
       "hindi pop"
@@ -1488,7 +1488,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1231211
+      "total": 1232259
     },
     "genres": [
       "punjabi pop",
@@ -1527,7 +1527,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5463423
+      "total": 5466483
     },
     "genres": [
       "bollywood",
@@ -1566,7 +1566,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1177875
+      "total": 1182031
     },
     "genres": [
       "bollywood",
@@ -1605,7 +1605,7 @@
     },
     "followers": {
       "href": null,
-      "total": 21026247
+      "total": 21030026
     },
     "genres": [
       "bhajan",
@@ -1644,7 +1644,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9160899
+      "total": 9168869
     },
     "genres": [
       "bollywood",
@@ -1708,7 +1708,7 @@
     },
     "followers": {
       "href": null,
-      "total": 184834
+      "total": 185251
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/0Or6EukLg1g2fTl08fPz2o",
@@ -1741,7 +1741,7 @@
     },
     "followers": {
       "href": null,
-      "total": 8325
+      "total": 8337
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3VkiCR2nuvfucpvFXdSVtx",
@@ -1774,7 +1774,7 @@
     },
     "followers": {
       "href": null,
-      "total": 21521
+      "total": 21536
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/1uY9B9QroF5K8wPyeEO1QN",
@@ -1807,7 +1807,7 @@
     },
     "followers": {
       "href": null,
-      "total": 63938
+      "total": 64096
     },
     "genres": [
       "gujarati garba",
@@ -1843,7 +1843,7 @@
     },
     "followers": {
       "href": null,
-      "total": 687
+      "total": 688
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4LZiKmRe8lGIn2PfLrgpYK",
@@ -1876,19 +1876,19 @@
     },
     "followers": {
       "href": null,
-      "total": 174
+      "total": 172
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3GYFWgZYy0KWnyqaBWdBpW",
     "id": "3GYFWgZYy0KWnyqaBWdBpW",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6742d3000053b7924291af4432f0e7b4b9d546",
+        "url": "https://i.scdn.co/image/ab6742d3000053b75804fc8a8630b92af4806815",
         "height": 720,
         "width": 1280
       },
       {
-        "url": "https://i.scdn.co/image/ab6742d3000052b7924291af4432f0e7b4b9d546",
+        "url": "https://i.scdn.co/image/ab6742d3000052b75804fc8a8630b92af4806815",
         "height": 360,
         "width": 640
       }
@@ -1969,7 +1969,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1305577
+      "total": 1305760
     },
     "genres": [
       "bollywood",
@@ -2010,7 +2010,7 @@
     },
     "followers": {
       "href": null,
-      "total": 60582
+      "total": 60647
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/5M4WmRBIQBWlBflNZj7BTG",
@@ -2043,7 +2043,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5348172
+      "total": 5349988
     },
     "genres": [
       "bollywood",
@@ -2080,7 +2080,7 @@
     },
     "followers": {
       "href": null,
-      "total": 133175
+      "total": 133181
     },
     "genres": [
       "indonesian indie"
@@ -2115,7 +2115,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1154369
+      "total": 1154377
     },
     "genres": [
       "indonesian indie"
@@ -2150,7 +2150,7 @@
     },
     "followers": {
       "href": null,
-      "total": 7559
+      "total": 7569
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3q1blSi57degdJeXeay4SM",
@@ -2183,7 +2183,7 @@
     },
     "followers": {
       "href": null,
-      "total": 220508
+      "total": 220643
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/7JUNqSO2J7JcC76ShZ9DI9",
@@ -2216,7 +2216,7 @@
     },
     "followers": {
       "href": null,
-      "total": 18452
+      "total": 18453
     },
     "genres": [
       "future house",
@@ -2288,7 +2288,7 @@
     },
     "followers": {
       "href": null,
-      "total": 777673
+      "total": 777721
     },
     "genres": [
       "big room",
@@ -2324,7 +2324,7 @@
     },
     "followers": {
       "href": null,
-      "total": 33804
+      "total": 33834
     },
     "genres": [
       "vinahouse",
@@ -2393,7 +2393,7 @@
     },
     "followers": {
       "href": null,
-      "total": 8747221
+      "total": 8748521
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V",
@@ -2426,7 +2426,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4946
+      "total": 4949
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4CjmulKe83Ymzhud7vD0i5",
@@ -2492,7 +2492,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4022805
+      "total": 4022893
     },
     "genres": [
       "edm",
@@ -2528,7 +2528,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3793286
+      "total": 3793093
     },
     "genres": [
       "electro house",
@@ -2564,7 +2564,7 @@
     },
     "followers": {
       "href": null,
-      "total": 7626
+      "total": 7622
     },
     "genres": [
       "tropical house",
@@ -2601,7 +2601,7 @@
     },
     "followers": {
       "href": null,
-      "total": 7925462
+      "total": 7926105
     },
     "genres": [
       "edm",
@@ -2640,7 +2640,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5350
+      "total": 5351
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/03O6WINYmDJRCE2EUFaykv",
@@ -2673,7 +2673,7 @@
     },
     "followers": {
       "href": null,
-      "total": 25684
+      "total": 25682
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/2E19mfEFhCr6UgZUYJGOEW",
@@ -2706,7 +2706,7 @@
     },
     "followers": {
       "href": null,
-      "total": 6324
+      "total": 6329
     },
     "genres": [
       "chinese r&b",
@@ -2747,7 +2747,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9959
+      "total": 9968
     },
     "genres": [
       "j-r&b",
@@ -2783,7 +2783,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9913615
+      "total": 9914041
     },
     "genres": [
       "bollywood",
@@ -2820,7 +2820,7 @@
     },
     "followers": {
       "href": null,
-      "total": 11789123
+      "total": 11796197
     },
     "genres": [
       "telugu pop",
@@ -2859,7 +2859,7 @@
     },
     "followers": {
       "href": null,
-      "total": 110858
+      "total": 110919
     },
     "genres": [
       "tamil dance",
@@ -2896,7 +2896,7 @@
     },
     "followers": {
       "href": null,
-      "total": 12285117
+      "total": 12289041
     },
     "genres": [
       "bollywood",
@@ -2933,7 +2933,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4348
+      "total": 4362
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/5hICADiHIRxjNDx2qEhlXb",
@@ -2966,7 +2966,7 @@
     },
     "followers": {
       "href": null,
-      "total": 367946
+      "total": 368047
     },
     "genres": [
       "bollywood",
@@ -3002,7 +3002,7 @@
     },
     "followers": {
       "href": null,
-      "total": 20715448
+      "total": 20727467
     },
     "genres": [
       "bollywood",
@@ -3039,7 +3039,7 @@
     },
     "followers": {
       "href": null,
-      "total": 15694
+      "total": 15699
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/2IX6xq1cVcBoD4obUsT5xs",
@@ -3072,7 +3072,7 @@
     },
     "followers": {
       "href": null,
-      "total": 69199
+      "total": 69329
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/7ikcALJgPCvpL25820JNYR",
@@ -3105,7 +3105,7 @@
     },
     "followers": {
       "href": null,
-      "total": 7110751
+      "total": 7114687
     },
     "genres": [
       "bhajan",
@@ -3144,7 +3144,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4004538
+      "total": 4021525
     },
     "genres": [
       "bhajan",
@@ -3182,7 +3182,7 @@
     },
     "followers": {
       "href": null,
-      "total": 148506
+      "total": 148587
     },
     "genres": [
       "bollywood",
@@ -3220,7 +3220,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1294164
+      "total": 1295760
     },
     "genres": [
       "bollywood",
@@ -3257,7 +3257,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3872
+      "total": 3884
     },
     "genres": [
       "bhajan",
@@ -3293,7 +3293,7 @@
     },
     "followers": {
       "href": null,
-      "total": 32800
+      "total": 32817
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/5pXe6yFchq1oyYK3rq2A8i",
@@ -3316,7 +3316,7 @@
       }
     ],
     "name": "KIDDO",
-    "popularity": 61,
+    "popularity": 60,
     "type": "artist",
     "uri": "spotify:artist:5pXe6yFchq1oyYK3rq2A8i"
   },
@@ -3326,7 +3326,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3258657
+      "total": 3258961
     },
     "genres": [
       "tropical house"
@@ -3361,7 +3361,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1288116
+      "total": 1288297
     },
     "genres": [
       "melbourne bounce",
@@ -3397,7 +3397,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3625
+      "total": 3629
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/5SfqIMwBJ7wD419vvb33mO",
@@ -3430,7 +3430,7 @@
     },
     "followers": {
       "href": null,
-      "total": 121140
+      "total": 121138
     },
     "genres": [
       "cantopop",
@@ -3466,7 +3466,7 @@
     },
     "followers": {
       "href": null,
-      "total": 185194
+      "total": 185190
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/6H6svVOQLsIH1uK7KedZoQ",
@@ -3499,7 +3499,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1777752
+      "total": 1777723
     },
     "genres": [
       "big room",
@@ -3537,7 +3537,7 @@
     },
     "followers": {
       "href": null,
-      "total": 10510
+      "total": 10519
     },
     "genres": [
       "slap house",
@@ -3573,7 +3573,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5726
+      "total": 5733
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/53QFkgzvHiqxjEdY0alTcr",
@@ -3639,7 +3639,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1567
+      "total": 1566
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3gWt5GuzFWCmAHwWVvs4rw",
@@ -3672,7 +3672,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2591739
+      "total": 2592178
     },
     "genres": [
       "anime",
@@ -3711,7 +3711,7 @@
     },
     "followers": {
       "href": null,
-      "total": 30246580
+      "total": 30200519
     },
     "genres": [
       "bollywood",
@@ -3751,7 +3751,7 @@
     },
     "followers": {
       "href": null,
-      "total": 35320
+      "total": 35326
     },
     "genres": [
       "desi hip hop"
@@ -3786,7 +3786,7 @@
     },
     "followers": {
       "href": null,
-      "total": 328895
+      "total": 328975
     },
     "genres": [
       "desi hip hop",
@@ -3825,7 +3825,7 @@
     },
     "followers": {
       "href": null,
-      "total": 14895305
+      "total": 14912954
     },
     "genres": [
       "bollywood",
@@ -3862,7 +3862,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4696530
+      "total": 4696634
     },
     "genres": [
       "bollywood",
@@ -3899,7 +3899,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3376971
+      "total": 3382497
     },
     "genres": [
       "bollywood",
@@ -3936,7 +3936,7 @@
     },
     "followers": {
       "href": null,
-      "total": 224021
+      "total": 224112
     },
     "genres": [
       "bollywood",
@@ -3972,7 +3972,7 @@
     },
     "followers": {
       "href": null,
-      "total": 13401038
+      "total": 13404041
     },
     "genres": [
       "hindi pop",
@@ -4010,7 +4010,7 @@
     },
     "followers": {
       "href": null,
-      "total": 12042905
+      "total": 12043262
     },
     "genres": [
       "bollywood",
@@ -4047,7 +4047,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1828571
+      "total": 1831382
     },
     "genres": [
       "bollywood",
@@ -4084,7 +4084,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1806251
+      "total": 1807594
     },
     "genres": [
       "bollywood",
@@ -4124,7 +4124,7 @@
     },
     "followers": {
       "href": null,
-      "total": 41930551
+      "total": 41956711
     },
     "genres": [
       "tamil pop",
@@ -4164,7 +4164,7 @@
     },
     "followers": {
       "href": null,
-      "total": 485930
+      "total": 486841
     },
     "genres": [
       "hindi pop",
@@ -4202,7 +4202,7 @@
     },
     "followers": {
       "href": null,
-      "total": 10032
+      "total": 10093
     },
     "genres": [
       "bollywood"
@@ -4237,7 +4237,7 @@
     },
     "followers": {
       "href": null,
-      "total": 761773
+      "total": 762018
     },
     "genres": [
       "indian indie",
@@ -4276,7 +4276,7 @@
     },
     "followers": {
       "href": null,
-      "total": 156219
+      "total": 156231
     },
     "genres": [
       "bollywood",
@@ -4314,7 +4314,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4756049
+      "total": 4757856
     },
     "genres": [
       "bollywood",
@@ -4369,7 +4369,7 @@
     },
     "followers": {
       "href": null,
-      "total": 296131
+      "total": 296784
     },
     "genres": [
       "hindi indie",
@@ -4407,7 +4407,7 @@
     },
     "followers": {
       "href": null,
-      "total": 742882
+      "total": 744320
     },
     "genres": [
       "hindi pop",
@@ -4444,7 +4444,7 @@
     },
     "followers": {
       "href": null,
-      "total": 7017000
+      "total": 7026180
     },
     "genres": [
       "gujarati pop",
@@ -4483,7 +4483,7 @@
     },
     "followers": {
       "href": null,
-      "total": 674
+      "total": 675
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/7xcbCUOXrxDyWxbYxPq60B",
@@ -4516,7 +4516,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1671866
+      "total": 1672068
     },
     "genres": [
       "crunk"
@@ -4551,7 +4551,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1251602
+      "total": 1251736
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
@@ -4584,7 +4584,7 @@
     },
     "followers": {
       "href": null,
-      "total": 565183
+      "total": 565497
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/03d2mJXSMtuPI0nIvLnhoS",
@@ -4617,7 +4617,7 @@
     },
     "followers": {
       "href": null,
-      "total": 172086
+      "total": 172131
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/0duLKMlcwhyZgqu8zSSjBp",
@@ -4650,7 +4650,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1221661
+      "total": 1221911
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
@@ -4683,7 +4683,7 @@
     },
     "followers": {
       "href": null,
-      "total": 38339
+      "total": 38353
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/307erl4VjT1dZDMYpneZqd",
@@ -4716,7 +4716,7 @@
     },
     "followers": {
       "href": null,
-      "total": 25844
+      "total": 25860
     },
     "genres": [
       "electroclash"
@@ -4751,7 +4751,7 @@
     },
     "followers": {
       "href": null,
-      "total": 965702
+      "total": 965795
     },
     "genres": [
       "edm"
@@ -4786,7 +4786,7 @@
     },
     "followers": {
       "href": null,
-      "total": 398817
+      "total": 398851
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/1294QqYm1VuxxjRiL9M0h9",
@@ -4819,7 +4819,7 @@
     },
     "followers": {
       "href": null,
-      "total": 931243
+      "total": 931368
     },
     "genres": [
       "j-pop",
@@ -4855,7 +4855,7 @@
     },
     "followers": {
       "href": null,
-      "total": 15227
+      "total": 15229
     },
     "genres": [
       "chinese r&b",
@@ -4891,7 +4891,7 @@
     },
     "followers": {
       "href": null,
-      "total": 6616
+      "total": 6615
     },
     "genres": [
       "hyperpop"
@@ -4926,7 +4926,7 @@
     },
     "followers": {
       "href": null,
-      "total": 10395
+      "total": 10405
     },
     "genres": [
       "indonesian indie"
@@ -4994,7 +4994,7 @@
     },
     "followers": {
       "href": null,
-      "total": 468454
+      "total": 468489
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4nd1IvFkUoQinjvYdUmOBI",
@@ -5027,7 +5027,7 @@
     },
     "followers": {
       "href": null,
-      "total": 31005
+      "total": 31010
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4RnzpVhMevUeU16FlV4e3e",
@@ -5060,7 +5060,7 @@
     },
     "followers": {
       "href": null,
-      "total": 173197
+      "total": 173255
     },
     "genres": [
       "norwegian pop"
@@ -5095,7 +5095,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2101380
+      "total": 2101370
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/7DMveApC7UnC2NPfPvlHSU",
@@ -5128,7 +5128,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3740064
+      "total": 3739907
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/2WX2uTcsvV5OnS0inACecP",
@@ -5161,7 +5161,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1842841
+      "total": 1842822
     },
     "genres": [
       "future house",
@@ -5197,7 +5197,7 @@
     },
     "followers": {
       "href": null,
-      "total": 145063
+      "total": 145070
     },
     "genres": [
       "slap house"
@@ -5232,7 +5232,7 @@
     },
     "followers": {
       "href": null,
-      "total": 4248585
+      "total": 4249096
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/2txHhyCwHjUEpJjWrEyqyX",
@@ -5265,7 +5265,7 @@
     },
     "followers": {
       "href": null,
-      "total": 554679
+      "total": 554774
     },
     "genres": [
       "art rock"
@@ -5300,7 +5300,7 @@
     },
     "followers": {
       "href": null,
-      "total": 20005
+      "total": 20046
     },
     "genres": [
       "taiwanese indie",
@@ -5337,7 +5337,7 @@
     },
     "followers": {
       "href": null,
-      "total": 24587
+      "total": 24602
     },
     "genres": [
       "city pop"
@@ -5372,7 +5372,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3869638
+      "total": 3869857
     },
     "genres": [
       "tropical house"
@@ -5407,7 +5407,7 @@
     },
     "followers": {
       "href": null,
-      "total": 799867
+      "total": 799906
     },
     "genres": [
       "tropical house"
@@ -5475,7 +5475,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2065
+      "total": 2072
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/26WIQmMRRABfsQCIhwtNns",
@@ -5498,7 +5498,7 @@
       }
     ],
     "name": "Sadie Rose Van",
-    "popularity": 48,
+    "popularity": 47,
     "type": "artist",
     "uri": "spotify:artist:26WIQmMRRABfsQCIhwtNns"
   },
@@ -5508,7 +5508,7 @@
     },
     "followers": {
       "href": null,
-      "total": 41092265
+      "total": 41094737
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
@@ -5541,7 +5541,7 @@
     },
     "followers": {
       "href": null,
-      "total": 350607
+      "total": 350659
     },
     "genres": [
       "indonesian pop"
@@ -5576,7 +5576,7 @@
     },
     "followers": {
       "href": null,
-      "total": 56731
+      "total": 56751
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/56Qz2XwGj7FxnNKrfkWjnb",
@@ -5609,7 +5609,7 @@
     },
     "followers": {
       "href": null,
-      "total": 39376
+      "total": 39384
     },
     "genres": [
       "chinese r&b",
@@ -5650,7 +5650,7 @@
     },
     "followers": {
       "href": null,
-      "total": 58976
+      "total": 58983
     },
     "genres": [
       "alternative r&b"
@@ -5685,7 +5685,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3521078
+      "total": 3523701
     },
     "genres": [
       "tamil pop",
@@ -5723,7 +5723,7 @@
     },
     "followers": {
       "href": null,
-      "total": 66342
+      "total": 66347
     },
     "genres": [
       "tamil hip hop",
@@ -5762,7 +5762,7 @@
     },
     "followers": {
       "href": null,
-      "total": 664351
+      "total": 666194
     },
     "genres": [
       "tamil pop",
@@ -5799,13 +5799,13 @@
     },
     "followers": {
       "href": null,
-      "total": 4677107
+      "total": 4679607
     },
     "genres": [
       "tamil pop",
       "tollywood",
-      "telugu pop",
       "kollywood",
+      "telugu pop",
       "marathi pop",
       "bollywood",
       "hindi pop"
@@ -5840,7 +5840,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1233048
+      "total": 1233799
     },
     "genres": [
       "telugu pop",
@@ -5876,7 +5876,7 @@
     },
     "followers": {
       "href": null,
-      "total": 222448
+      "total": 222980
     },
     "genres": [
       "telugu pop",
@@ -5913,7 +5913,7 @@
     },
     "followers": {
       "href": null,
-      "total": 297359
+      "total": 297481
     },
     "genres": [
       "bollywood",
@@ -5951,7 +5951,7 @@
     },
     "followers": {
       "href": null,
-      "total": 609102
+      "total": 609850
     },
     "genres": [
       "bhajan",
@@ -5988,7 +5988,7 @@
     },
     "followers": {
       "href": null,
-      "total": 107029
+      "total": 107055
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/5bppkTlu7F930pWlNn1b1g",
@@ -6021,7 +6021,7 @@
     },
     "followers": {
       "href": null,
-      "total": 298114
+      "total": 298149
     },
     "genres": [
       "melodic bass",
@@ -6059,7 +6059,7 @@
     },
     "followers": {
       "href": null,
-      "total": 16690
+      "total": 16689
     },
     "genres": [
       "p-pop"
@@ -6127,7 +6127,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9697619
+      "total": 9702528
     },
     "genres": [
       "tollywood",
@@ -6167,7 +6167,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2513441
+      "total": 2515146
     },
     "genres": [
       "kannada pop",
@@ -6205,7 +6205,7 @@
     },
     "followers": {
       "href": null,
-      "total": 694450
+      "total": 696287
     },
     "genres": [
       "tollywood",
@@ -6241,7 +6241,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9223366
+      "total": 9231240
     },
     "genres": [
       "qawwali",
@@ -6278,7 +6278,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1606715
+      "total": 1607873
     },
     "genres": [
       "bollywood",
@@ -6315,7 +6315,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9360790
+      "total": 9361262
     },
     "genres": [
       "desi hip hop",
@@ -6328,17 +6328,17 @@
     "id": "5NHm4TU5Twz7owibYxJfFU",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5eb3de5e76cc83756f612242378",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0c9466ad91deb94d7fd32ea4",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab676161000051743de5e76cc83756f612242378",
+        "url": "https://i.scdn.co/image/ab676161000051740c9466ad91deb94d7fd32ea4",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f1783de5e76cc83756f612242378",
+        "url": "https://i.scdn.co/image/ab6761610000f1780c9466ad91deb94d7fd32ea4",
         "height": 160,
         "width": 160
       }
@@ -6354,7 +6354,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5264648
+      "total": 5265017
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m",
@@ -6387,7 +6387,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5923773
+      "total": 5924323
     },
     "genres": [
       "southern hip hop",
@@ -6424,7 +6424,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1045669
+      "total": 1046598
     },
     "genres": [
       "bollywood",
@@ -6460,7 +6460,7 @@
     },
     "followers": {
       "href": null,
-      "total": 6212
+      "total": 6215
     },
     "genres": [
       "desi hip hop"
@@ -6495,7 +6495,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2244726
+      "total": 2249583
     },
     "genres": [
       "bhajan",
@@ -6533,7 +6533,7 @@
     },
     "followers": {
       "href": null,
-      "total": 22335
+      "total": 22334
     },
     "genres": [
       "indian indie",
@@ -6569,7 +6569,7 @@
     },
     "followers": {
       "href": null,
-      "total": 492509
+      "total": 493820
     },
     "genres": [
       "bollywood",
@@ -6607,7 +6607,7 @@
     },
     "followers": {
       "href": null,
-      "total": 267930
+      "total": 267916
     },
     "genres": [
       "indian indie",
@@ -6720,7 +6720,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5611238
+      "total": 5614179
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
@@ -6753,7 +6753,7 @@
     },
     "followers": {
       "href": null,
-      "total": 2803278
+      "total": 2804140
     },
     "genres": [
       "sufi",
@@ -6790,7 +6790,7 @@
     },
     "followers": {
       "href": null,
-      "total": 40411
+      "total": 40416
     },
     "genres": [
       "bollywood",
@@ -6828,7 +6828,7 @@
     },
     "followers": {
       "href": null,
-      "total": 43121
+      "total": 43131
     },
     "genres": [
       "indian indie",
@@ -6865,7 +6865,7 @@
     },
     "followers": {
       "href": null,
-      "total": 26236907
+      "total": 26240878
     },
     "genres": [
       "gujarati garba",
@@ -6905,7 +6905,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1007801
+      "total": 1009917
     },
     "genres": [
       "bollywood",
@@ -6942,7 +6942,7 @@
     },
     "followers": {
       "href": null,
-      "total": 22154007
+      "total": 22162172
     },
     "genres": [
       "kannada pop",
@@ -6972,7 +6972,7 @@
       }
     ],
     "name": "Sonu Nigam",
-    "popularity": 80,
+    "popularity": 81,
     "type": "artist",
     "uri": "spotify:artist:1dVygo6tRFXC8CSWURQJq2"
   },
@@ -6982,7 +6982,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5967030
+      "total": 5967056
     },
     "genres": [
       "bollywood",
@@ -7020,7 +7020,7 @@
     },
     "followers": {
       "href": null,
-      "total": 263269
+      "total": 263503
     },
     "genres": [
       "tollywood",
@@ -7057,7 +7057,7 @@
     },
     "followers": {
       "href": null,
-      "total": 6036
+      "total": 6033
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/0w3yzcroyJEGY9nzsseeam",
@@ -7090,7 +7090,7 @@
     },
     "followers": {
       "href": null,
-      "total": 429213
+      "total": 429651
     },
     "genres": [
       "desi",
@@ -7126,7 +7126,7 @@
     },
     "followers": {
       "href": null,
-      "total": 135542
+      "total": 136166
     },
     "genres": [
       "tamil pop",
@@ -7163,7 +7163,7 @@
     },
     "followers": {
       "href": null,
-      "total": 317160
+      "total": 317175
     },
     "genres": [
       "desi hip hop",
@@ -7199,7 +7199,7 @@
     },
     "followers": {
       "href": null,
-      "total": 199229
+      "total": 199233
     },
     "genres": [
       "egyptian pop",
@@ -7236,7 +7236,7 @@
     },
     "followers": {
       "href": null,
-      "total": 844
+      "total": 845
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/15f0HYupDbduH3FmzJTpR5",
@@ -7269,7 +7269,7 @@
     },
     "followers": {
       "href": null,
-      "total": 48646280
+      "total": 48647769
     },
     "genres": [
       "bollywood",
@@ -7376,7 +7376,7 @@
     },
     "followers": {
       "href": null,
-      "total": 206249
+      "total": 206265
     },
     "genres": [
       "j-pop",
@@ -7413,13 +7413,13 @@
     },
     "followers": {
       "href": null,
-      "total": 70052
+      "total": 70064
     },
     "genres": [
-      "tamil pop",
       "tamil hip hop",
-      "tamil dance",
-      "kollywood"
+      "tamil pop",
+      "kollywood",
+      "tamil dance"
     ],
     "href": "https://api.spotify.com/v1/artists/3jw6WnDlhrKkNjgcp8JGQe",
     "id": "3jw6WnDlhrKkNjgcp8JGQe",
@@ -7451,7 +7451,7 @@
     },
     "followers": {
       "href": null,
-      "total": 62459
+      "total": 62487
     },
     "genres": [
       "tamil pop",
@@ -7487,7 +7487,7 @@
     },
     "followers": {
       "href": null,
-      "total": 40284
+      "total": 40303
     },
     "genres": [
       "tamil pop",
@@ -7524,7 +7524,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1440174
+      "total": 1441589
     },
     "genres": [
       "tamil pop",
@@ -7563,7 +7563,7 @@
     },
     "followers": {
       "href": null,
-      "total": 13050
+      "total": 13053
     },
     "genres": [
       "kollywood",
@@ -7600,7 +7600,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3422176
+      "total": 3422727
     },
     "genres": [
       "tamil dance",
@@ -7638,7 +7638,7 @@
     },
     "followers": {
       "href": null,
-      "total": 791699
+      "total": 796619
     },
     "genres": [
       "tamil hip hop",
@@ -7678,7 +7678,7 @@
     },
     "followers": {
       "href": null,
-      "total": 48890
+      "total": 48926
     },
     "genres": [
       "cantopop"
@@ -7749,7 +7749,7 @@
     },
     "followers": {
       "href": null,
-      "total": 5176499
+      "total": 5179495
     },
     "genres": [
       "k-pop",
@@ -7785,7 +7785,7 @@
     },
     "followers": {
       "href": null,
-      "total": 103850
+      "total": 103879
     },
     "genres": [
       "k-pop"
@@ -7820,7 +7820,7 @@
     },
     "followers": {
       "href": null,
-      "total": 12559
+      "total": 12561
     },
     "genres": [
       "orchestra"
@@ -7855,7 +7855,7 @@
     },
     "followers": {
       "href": null,
-      "total": 35355
+      "total": 35366
     },
     "genres": [
       "k-ballad"
@@ -7890,7 +7890,7 @@
     },
     "followers": {
       "href": null,
-      "total": 846601
+      "total": 846658
     },
     "genres": [
       "k-pop",
@@ -7927,7 +7927,7 @@
     },
     "followers": {
       "href": null,
-      "total": 90448
+      "total": 90470
     },
     "genres": [
       "k-pop"
@@ -7962,7 +7962,7 @@
     },
     "followers": {
       "href": null,
-      "total": 63279
+      "total": 63291
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/1rVpXgPDVeUXPKKqVEnAGb",
@@ -7995,7 +7995,7 @@
     },
     "followers": {
       "href": null,
-      "total": 3123647
+      "total": 3123994
     },
     "genres": [
       "k-pop",
@@ -8031,7 +8031,7 @@
     },
     "followers": {
       "href": null,
-      "total": 453721
+      "total": 453719
     },
     "genres": [
       "k-ballad",
@@ -8041,17 +8041,17 @@
     "id": "7sZ5ipSoboWdqXkdj6AXHo",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5eb5ee5c0898eb707d92a63639a",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb71eab2e52351da031c509f9c",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab676161000051745ee5c0898eb707d92a63639a",
+        "url": "https://i.scdn.co/image/ab6761610000517471eab2e52351da031c509f9c",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f1785ee5c0898eb707d92a63639a",
+        "url": "https://i.scdn.co/image/ab6761610000f17871eab2e52351da031c509f9c",
         "height": 160,
         "width": 160
       }
@@ -8067,7 +8067,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1284065
+      "total": 1284030
     },
     "genres": [
       "k-pop"
@@ -8102,7 +8102,7 @@
     },
     "followers": {
       "href": null,
-      "total": 467237
+      "total": 467292
     },
     "genres": [
       "k-pop"
@@ -8137,7 +8137,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1473807
+      "total": 1473981
     },
     "genres": [
       "k-pop",
@@ -8173,7 +8173,7 @@
     },
     "followers": {
       "href": null,
-      "total": 993420
+      "total": 993926
     },
     "genres": [
       "k-pop"
@@ -8208,7 +8208,7 @@
     },
     "followers": {
       "href": null,
-      "total": 21343
+      "total": 21345
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/2OXZdo5nEz7O3lJhCLa4aa",
@@ -8241,7 +8241,7 @@
     },
     "followers": {
       "href": null,
-      "total": 402497
+      "total": 404486
     },
     "genres": [
       "k-pop"
@@ -8250,17 +8250,17 @@
     "id": "2qwDjeSYANOOBFU8jwtBXx",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5ebd980fe5b48d9629569cf5f6c",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb708793b6cc364f8508cd1667",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab67616100005174d980fe5b48d9629569cf5f6c",
+        "url": "https://i.scdn.co/image/ab67616100005174708793b6cc364f8508cd1667",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f178d980fe5b48d9629569cf5f6c",
+        "url": "https://i.scdn.co/image/ab6761610000f178708793b6cc364f8508cd1667",
         "height": 160,
         "width": 160
       }
@@ -8276,7 +8276,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1760654
+      "total": 1761471
     },
     "genres": [
       "k-pop"
@@ -8311,7 +8311,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1248262
+      "total": 1248455
     },
     "genres": [
       "k-pop"
@@ -8346,7 +8346,7 @@
     },
     "followers": {
       "href": null,
-      "total": 263501
+      "total": 263546
     },
     "genres": [
       "k-pop",
@@ -8382,7 +8382,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9593485
+      "total": 9594086
     },
     "genres": [
       "k-pop"
@@ -8417,7 +8417,7 @@
     },
     "followers": {
       "href": null,
-      "total": 9425953
+      "total": 9433932
     },
     "genres": [
       "k-pop"
@@ -8426,17 +8426,17 @@
     "id": "6YVMFz59CuY7ngCxTxjpxE",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5eb927f1260251e32135287e032",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb18d4cb767d2dfe5f4b28ba07",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab67616100005174927f1260251e32135287e032",
+        "url": "https://i.scdn.co/image/ab6761610000517418d4cb767d2dfe5f4b28ba07",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f178927f1260251e32135287e032",
+        "url": "https://i.scdn.co/image/ab6761610000f17818d4cb767d2dfe5f4b28ba07",
         "height": 160,
         "width": 160
       }
@@ -8452,7 +8452,7 @@
     },
     "followers": {
       "href": null,
-      "total": 85603
+      "total": 85618
     },
     "genres": [
       "k-pop"
@@ -8487,7 +8487,7 @@
     },
     "followers": {
       "href": null,
-      "total": 586359
+      "total": 586346
     },
     "genres": [
       "k-pop",
@@ -8497,17 +8497,17 @@
     "id": "3U7bOaJLuFkrmDQ1C1OqKl",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5ebfb44aefad4ed18aaa06a0d4b",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebab7710b9229f2cd96dbe6583",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab67616100005174fb44aefad4ed18aaa06a0d4b",
+        "url": "https://i.scdn.co/image/ab67616100005174ab7710b9229f2cd96dbe6583",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f178fb44aefad4ed18aaa06a0d4b",
+        "url": "https://i.scdn.co/image/ab6761610000f178ab7710b9229f2cd96dbe6583",
         "height": 160,
         "width": 160
       }
@@ -8523,7 +8523,7 @@
     },
     "followers": {
       "href": null,
-      "total": 187853
+      "total": 187892
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/346WlBab7ogTYOd1YhgcA7",
@@ -8556,7 +8556,7 @@
     },
     "followers": {
       "href": null,
-      "total": 30542
+      "total": 30548
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3kRn66oJ8iz6gJN32AyEPz",
@@ -8589,7 +8589,7 @@
     },
     "followers": {
       "href": null,
-      "total": 610268
+      "total": 612055
     },
     "genres": [
       "k-pop"
@@ -8598,17 +8598,17 @@
     "id": "3mPquBmMu97Iq9TpzQ6ayI",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5ebb55908dd5561d2d5941dc994",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4cb72380e5a70f201d26bc03",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab67616100005174b55908dd5561d2d5941dc994",
+        "url": "https://i.scdn.co/image/ab676161000051744cb72380e5a70f201d26bc03",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f178b55908dd5561d2d5941dc994",
+        "url": "https://i.scdn.co/image/ab6761610000f1784cb72380e5a70f201d26bc03",
         "height": 160,
         "width": 160
       }
@@ -8624,7 +8624,7 @@
     },
     "followers": {
       "href": null,
-      "total": 313100
+      "total": 314934
     },
     "genres": [
       "k-pop",
@@ -8634,17 +8634,17 @@
     "id": "2P1id80CMwR5R5cwcyIIAi",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5eb6da90f17dbe8c3d0197dfd7a",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9c7c47367bf5325d716f1893",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab676161000051746da90f17dbe8c3d0197dfd7a",
+        "url": "https://i.scdn.co/image/ab676161000051749c7c47367bf5325d716f1893",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f1786da90f17dbe8c3d0197dfd7a",
+        "url": "https://i.scdn.co/image/ab6761610000f1789c7c47367bf5325d716f1893",
         "height": 160,
         "width": 160
       }
@@ -8660,7 +8660,7 @@
     },
     "followers": {
       "href": null,
-      "total": 129687
+      "total": 129732
     },
     "genres": [
       "k-pop"
@@ -8695,7 +8695,7 @@
     },
     "followers": {
       "href": null,
-      "total": 974449
+      "total": 974493
     },
     "genres": [
       "k-ballad"
@@ -8730,7 +8730,7 @@
     },
     "followers": {
       "href": null,
-      "total": 496961
+      "total": 498716
     },
     "genres": [
       "chinese r&b"
@@ -8739,17 +8739,17 @@
     "id": "5t1uryofgueHrjrryqX8vM",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5ebc787e3b229914c109e692fd7",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1d9f83ee8ddaf4fe18ad05d1",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab67616100005174c787e3b229914c109e692fd7",
+        "url": "https://i.scdn.co/image/ab676161000051741d9f83ee8ddaf4fe18ad05d1",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f178c787e3b229914c109e692fd7",
+        "url": "https://i.scdn.co/image/ab6761610000f1781d9f83ee8ddaf4fe18ad05d1",
         "height": 160,
         "width": 160
       }
@@ -8765,7 +8765,7 @@
     },
     "followers": {
       "href": null,
-      "total": 212265
+      "total": 212279
     },
     "genres": [
       "k-ballad"
@@ -8800,7 +8800,7 @@
     },
     "followers": {
       "href": null,
-      "total": 839780
+      "total": 839889
     },
     "genres": [
       "k-pop",
@@ -8836,7 +8836,7 @@
     },
     "followers": {
       "href": null,
-      "total": 118868
+      "total": 118910
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/6mt12wGFaBAJPjK076GOJz",
@@ -8869,7 +8869,7 @@
     },
     "followers": {
       "href": null,
-      "total": 33601
+      "total": 33606
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/51kPKCSzbLwEQFFwhfS4R7",
@@ -8902,7 +8902,7 @@
     },
     "followers": {
       "href": null,
-      "total": 351604
+      "total": 351614
     },
     "genres": [
       "k-ballad"
@@ -8937,7 +8937,7 @@
     },
     "followers": {
       "href": null,
-      "total": 348275
+      "total": 348236
     },
     "genres": [
       "k-pop",
@@ -8974,7 +8974,7 @@
     },
     "followers": {
       "href": null,
-      "total": 136422
+      "total": 136438
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/3w1F1NkM49AMSCmHWF1ixR",
@@ -9007,7 +9007,7 @@
     },
     "followers": {
       "href": null,
-      "total": 701694
+      "total": 701728
     },
     "genres": [
       "k-pop"
@@ -9042,7 +9042,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1585975
+      "total": 1586028
     },
     "genres": [
       "k-ballad",
@@ -9078,7 +9078,7 @@
     },
     "followers": {
       "href": null,
-      "total": 40323
+      "total": 40322
     },
     "genres": [
       "k-rock"
@@ -9146,7 +9146,7 @@
     },
     "followers": {
       "href": null,
-      "total": 92008
+      "total": 92009
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4YXNoMVTHRt01jYaKXTumJ",
@@ -9179,7 +9179,7 @@
     },
     "followers": {
       "href": null,
-      "total": 12789
+      "total": 12796
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/4b7ZEkk5uXPlwX2IPuV7Q2",
@@ -9202,7 +9202,7 @@
       }
     ],
     "name": "IMLAY",
-    "popularity": 40,
+    "popularity": 41,
     "type": "artist",
     "uri": "spotify:artist:4b7ZEkk5uXPlwX2IPuV7Q2"
   },
@@ -9212,7 +9212,7 @@
     },
     "followers": {
       "href": null,
-      "total": 1766
+      "total": 1768
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/52jyvbzmj80qTr2NEWhczo",
@@ -9245,7 +9245,7 @@
     },
     "followers": {
       "href": null,
-      "total": 178618
+      "total": 178684
     },
     "genres": [],
     "href": "https://api.spotify.com/v1/artists/7fgL4SG4e92nmJ3GuTpz58",
@@ -9278,7 +9278,7 @@
     },
     "followers": {
       "href": null,
-      "total": 419142
+      "total": 419301
     },
     "genres": [
       "k-rap"
@@ -9313,7 +9313,7 @@
     },
     "followers": {
       "href": null,
-      "total": 23512
+      "total": 23513
     },
     "genres": [
       "k-rap"
@@ -9348,7 +9348,7 @@
     },
     "followers": {
       "href": null,
-      "total": 17544279
+      "total": 17545200
     },
     "genres": [
       "k-pop",
