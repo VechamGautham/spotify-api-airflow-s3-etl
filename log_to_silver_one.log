@@ -1,0 +1,15 @@
+loaded bronze: tracks_full=309, albums=100, artists=265
+albums_by_id=100, artists_by_id=265
+prepared 309 unique track rows
+Wrote309 rows to silver/tracks/tracks_silver.csv
+also wrote dated silver: silver/daily_tracks/2025-09-16/tracks_silver.csv
+loaded bronze: tracks_full=309, albums=100, artists=265
+albums_by_id=100, artists_by_id=265
+prepared 309 unique track rows
+Wrote309 rows to silver/tracks/tracks_silver.csv
+also wrote dated silver: silver/daily_tracks/2025-09-16/tracks_silver.csv
+loaded bronze: tracks_full=309, albums=100, artists=265
+albums_by_id=100, artists_by_id=265
+prepared 309 unique track rows
+Wrote309 rows to silver/tracks/tracks_silver.csv
+also wrote dated silver: silver/daily_tracks/2025-09-16/tracks_silver.csv

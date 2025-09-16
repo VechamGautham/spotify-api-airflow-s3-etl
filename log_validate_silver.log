@@ -1,0 +1,9 @@
+Using: /Users/gauthamvecham/Documents/Airflow_Project/silver/tracks/tracks_silver.csv
+{'evaluated_expectations': 8, 'successful_expectations': 8, 'unsuccessful_expectations': 0, 'success_percent': 100.0}
+Passed
+Using: /Users/gauthamvecham/Documents/Airflow_Project/silver/tracks/tracks_silver.csv
+{'evaluated_expectations': 8, 'successful_expectations': 8, 'unsuccessful_expectations': 0, 'success_percent': 100.0}
+Passed
+Using: /Users/gauthamvecham/Documents/Airflow_Project/silver/tracks/tracks_silver.csv
+{'evaluated_expectations': 8, 'successful_expectations': 8, 'unsuccessful_expectations': 0, 'success_percent': 100.0}
+Passed
